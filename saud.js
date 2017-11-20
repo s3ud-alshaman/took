@@ -1,7 +1,7 @@
 {
   "actors": [
     {
-      "name": "2فريجه",
+      "name": "Tmam Salem",
       "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
       "dob": "050093882",
        "phone": "Temoo",
