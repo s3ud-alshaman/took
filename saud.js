@@ -12,7 +12,7 @@
       "image": "http://www.fu-berlin.de/en/sites/uas/fellows/fellows-2015/_bilder/Braun_wanke--cropped-115x115.png"
     },
        {
-      "name": "سعود الشامان",
+      "name": "Abo Remsh",
       "description": "Tom Cruise, is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in the 1981 film Endless Love.",
       "dob": "سنترال",
        "phone": "٠٥٤٥٥٥٧١٦٥",
