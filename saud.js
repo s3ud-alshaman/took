@@ -67,7 +67,18 @@
       "image": "http://microblogging.wingnity.com/JSONParsingTutorial/tom.jpg"
     },
     {
-      "name": "Will Smith",
+      "name": "فريجه",
+      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
+      "dob": "No phone",
+       "phone": "123456",
+      "country": "United States",
+      "height": "1.80 m",
+      "spouse": "Jennifer Aniston",
+      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
+      "image": "http://www.fu-berlin.de/en/sites/uas/fellows/fellows-2015/_bilder/Braun_wanke--cropped-115x115.png"
+    },
+    {
+      "name": "علي احمد",
       "description": "Willard Carroll 'Will' Smith, Jr. is an American actor, producer, and rapper. He has enjoyed success in television, film, and music.",
       "dob": "September 25, 1968",
        "phone": "Temoo",
