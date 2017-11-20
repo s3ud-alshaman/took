@@ -1,7 +1,11 @@
 {
   "actors": [
     {
+<<<<<<< HEAD
       "name": "ToTo",
+=======
+      "name": "Tmam",
+>>>>>>> parent of 2edd187... Merge branch 'master' of https://github.com/s3ud-alshaman/took
       "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
       "dob": "050093882",
        "phone": "Temoo",
