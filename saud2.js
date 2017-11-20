@@ -48,7 +48,7 @@
       "name": "Angelina Temoo",
       "description": "Angelina Jolie is an American actress, film director, screenwriter, and author. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards.",
       "dob": "June 4, 1975",
-       "phone": "Temoo",
+       "phone": "Temo",
       "country": "United States",
       "height": "1.69 m",
       "spouse": "Brad Pitt",
