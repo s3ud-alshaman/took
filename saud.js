@@ -1,10 +1,10 @@
 {
   "actors": [
     {
-      "name": "Tmam No Love",
+      "name": "Temo",
       "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
-      "dob": "050093882",
-       "phone": "Temoo",
+      "dob": "No phone",
+       "phone": "123456",
       "country": "United States",
       "height": "1.80 m",
       "spouse": "Jennifer Aniston",
@@ -12,10 +12,10 @@
       "image": "http://www.fu-berlin.de/en/sites/uas/fellows/fellows-2015/_bilder/Braun_wanke--cropped-115x115.png"
     },
        {
-      "name": "Abo Remsh",
+      "name": "Saud Alshaman",
       "description": "Tom Cruise, is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in the 1981 film Endless Love.",
       "dob": "سنترال",
-       "phone": "٠٥٤٥٥٥٧١٦٥",
+       "phone": "0545557165",
       "country": "United States",
       "height": "1.70 m",
       "spouse": "Katie Holmes",
