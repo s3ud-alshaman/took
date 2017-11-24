@@ -400,9 +400,9 @@
   {
     "id": 9,
     "name": "npc_dota_hero_mirana",
-    "localized_name": "Mirana",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "مدير مكتب المدير الطبي",
+    "primary_attr": "7044",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Support",
@@ -451,9 +451,9 @@
   {
     "id": 10,
     "name": "npc_dota_hero_morphling",
-    "localized_name": "Morphling",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "سكرتاريا المدير الطبي",
+    "primary_attr": "9082",
+    "attack_type": "1036",
     "roles": [
       "Carry",
       "Escape",
@@ -502,9 +502,9 @@
   {
     "id": 11,
     "name": "npc_dota_hero_nevermore",
-    "localized_name": "Shadow Fiend",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "الخدمات المساندة",
+    "primary_attr": "9191",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker"
@@ -550,9 +550,9 @@
   {
     "id": 12,
     "name": "npc_dota_hero_phantom_lancer",
-    "localized_name": "Phantom Lancer",
-    "primary_attr": "agi",
-    "attack_type": "Melee",
+    "localized_name": "سكرتير الخدمات المساندة",
+    "primary_attr": "7080",
+    "attack_type": "9192",
     "roles": [
       "Carry",
       "Escape",
@@ -600,9 +600,9 @@
   {
     "id": 13,
     "name": "npc_dota_hero_puck",
-    "localized_name": "Puck",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "مدير التجهيزات الطبية",
+    "primary_attr": "9095",
+    "attack_type": "",
     "roles": [
       "Initiator",
       "Disabler",
@@ -650,9 +650,9 @@
   {
     "id": 14,
     "name": "npc_dota_hero_pudge",
-    "localized_name": "Pudge",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "مدير الموارد البشرية",
+    "primary_attr": "9012",
+    "attack_type": "9018",
     "roles": [
       "Disabler",
       "Initiator",
@@ -700,9 +700,9 @@
   {
     "id": 15,
     "name": "npc_dota_hero_razor",
-    "localized_name": "Razor",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "مساعد مدير الموارد البشرية",
+    "primary_attr": "9024",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Durable",
@@ -750,9 +750,9 @@
   {
     "id": 16,
     "name": "npc_dota_hero_sand_king",
-    "localized_name": "Sand King",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "مدير المالية",
+    "primary_attr": "9016",
+    "attack_type": "1015-1014-1259-1172",
     "roles": [
       "Initiator",
       "Disabler",
@@ -801,9 +801,9 @@
   {
     "id": 17,
     "name": "npc_dota_hero_storm_spirit",
-    "localized_name": "Storm Spirit",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "مدير علاقات المرضى",
+    "primary_attr": "9100",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Escape",
@@ -852,9 +852,9 @@
   {
     "id": 18,
     "name": "npc_dota_hero_sven",
-    "localized_name": "Sven",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "المختبر - المدير",
+    "primary_attr": "9050",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Disabler",
@@ -903,9 +903,9 @@
   {
     "id": 19,
     "name": "npc_dota_hero_tiny",
-    "localized_name": "Tiny",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "المختبر - نائب المدير",
+    "primary_attr": "7042",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker",
@@ -955,9 +955,9 @@
   {
     "id": 20,
     "name": "npc_dota_hero_vengefulspirit",
-    "localized_name": "Vengeful Spirit",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "رئيسة التمريض",
+    "primary_attr": "9055",
+    "attack_type": "",
     "roles": [
       "Support",
       "Initiator",
@@ -1006,9 +1006,9 @@
   {
     "id": 21,
     "name": "npc_dota_hero_windrunner",
-    "localized_name": "Windranger",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "مشرفة التمريض",
+    "primary_attr": "9028",
+    "attack_type": "1786-9027",
     "roles": [
       "Carry",
       "Support",
@@ -1057,9 +1057,9 @@
   {
     "id": 22,
     "name": "npc_dota_hero_zuus",
-    "localized_name": "Zeus",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "رئيس العلاج الطبيعي",
+    "primary_attr": "9026",
+    "attack_type": "",
     "roles": [
       "Nuker"
     ],
