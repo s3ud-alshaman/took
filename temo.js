@@ -1155,9 +1155,9 @@
   {
     "id": 25,
     "name": "npc_dota_hero_lina",
-    "localized_name": "Lina",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "الصحة الإلكترونية",
+    "primary_attr": "9015",
+    "attack_type": "",
     "roles": [
       "Support",
       "Carry",
@@ -1205,9 +1205,9 @@
   {
     "id": 26,
     "name": "npc_dota_hero_lion",
-    "localized_name": "Lion",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "صيانة الحاسب",
+    "primary_attr": "4000",
+    "attack_type": "4001-4002",
     "roles": [
       "Support",
       "Disabler",
@@ -1255,9 +1255,9 @@
   {
     "id": 27,
     "name": "npc_dota_hero_shadow_shaman",
-    "localized_name": "Shadow Shaman",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "الصيانة الغير طبية",
+    "primary_attr": "9011",
+    "attack_type": "",
     "roles": [
       "Support",
       "Pusher",
@@ -1306,9 +1306,9 @@
   {
     "id": 28,
     "name": "npc_dota_hero_slardar",
-    "localized_name": "Slardar",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "عيادة م.الملك فيصل التخصصي",
+    "primary_attr": "9010",
+    "attack_type": "3184-9010-3183-3162",
     "roles": [
       "Carry",
       "Durable",
@@ -1357,9 +1357,9 @@
   {
     "id": 29,
     "name": "npc_dota_hero_tidehunter",
-    "localized_name": "Tidehunter",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "رئيس قسم الصيدلية",
+    "primary_attr": "9020",
+    "attack_type": "",
     "roles": [
       "Initiator",
       "Durable",
@@ -1407,9 +1407,9 @@
   {
     "id": 30,
     "name": "npc_dota_hero_witch_doctor",
-    "localized_name": "Witch Doctor",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "صيدلية العيادات الخارجية",
+    "primary_attr": "7020",
+    "attack_type": "3009",
     "roles": [
       "Support",
       "Nuker",
@@ -1456,9 +1456,9 @@
   {
     "id": 31,
     "name": "npc_dota_hero_lich",
-    "localized_name": "Lich",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "الصيدلية الداخلية",
+    "primary_attr": "7050",
+    "attack_type": "1079",
     "roles": [
       "Support",
       "Nuker"
@@ -1504,9 +1504,9 @@
   {
     "id": 32,
     "name": "npc_dota_hero_riki",
-    "localized_name": "Riki",
-    "primary_attr": "agi",
-    "attack_type": "Melee",
+    "localized_name": "العيادات الخارجية - الاستقبال",
+    "primary_attr": "3053",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Escape",
@@ -1553,9 +1553,9 @@
   {
     "id": 33,
     "name": "npc_dota_hero_enigma",
-    "localized_name": "Enigma",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "العيادات الخارجية - الاشعة",
+    "primary_attr": "3276",
+    "attack_type": "",
     "roles": [
       "Disabler",
       "Jungler",
@@ -1603,9 +1603,9 @@
   {
     "id": 34,
     "name": "npc_dota_hero_tinker",
-    "localized_name": "Tinker",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "اسكان التمريض -الحارسات",
+    "primary_attr": "5217",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker",
@@ -1652,9 +1652,9 @@
   {
     "id": 35,
     "name": "npc_dota_hero_sniper",
-    "localized_name": "Sniper",
-    "primary_attr": "agi",
-    "attack_type": "Ranged",
+    "localized_name": "اسكان التمريض - المشرفات",
+    "primary_attr": "5210",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker"
@@ -1700,9 +1700,9 @@
   {
     "id": 36,
     "name": "npc_dota_hero_necrolyte",
-    "localized_name": "Necrophos",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "الامن و السلامة",
+    "primary_attr": "6033",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker",
@@ -1750,9 +1750,9 @@
   {
     "id": 37,
     "name": "npc_dota_hero_warlock",
-    "localized_name": "Warlock",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "المغسلة",
+    "primary_attr": "4040",
+    "attack_type": "",
     "roles": [
       "Support",
       "Initiator",
@@ -1799,9 +1799,9 @@
   {
     "id": 38,
     "name": "npc_dota_hero_beastmaster",
-    "localized_name": "Beastmaster",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "الصادر و الوارد",
+    "primary_attr": "1028",
+    "attack_type": "",
     "roles": [
       "Initiator",
       "Disabler",
@@ -1849,9 +1849,9 @@
   {
     "id": 39,
     "name": "npc_dota_hero_queenofpain",
-    "localized_name": "Queen of Pain",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "غرفة التحكم BMS",
+    "primary_attr": "1247",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Nuker",
@@ -1898,7 +1898,7 @@
   {
     "id": 40,
     "name": "npc_dota_hero_venomancer",
-    "localized_name": "Venomancer",
+    "localized_name": "العيادات الخارجية - منسقة المواعيد",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -3391,7 +3391,7 @@
   {
     "id": 70,
     "name": "npc_dota_hero_ursa",
-    "localized_name": "Ursa",
+    "localized_name": "التجهيزات",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -3441,7 +3441,7 @@
   {
     "id": 71,
     "name": "npc_dota_hero_spirit_breaker",
-    "localized_name": "Spirit Breaker",
+    "localized_name": "غرفة الاطباء - الدور الثاني",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -3492,7 +3492,7 @@
   {
     "id": 72,
     "name": "npc_dota_hero_gyrocopter",
-    "localized_name": "Gyrocopter",
+    "localized_name": "جراحة اليوم الواحد",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -3541,7 +3541,7 @@
   {
     "id": 73,
     "name": "npc_dota_hero_alchemist",
-    "localized_name": "Alchemist",
+    "localized_name": "جراحة رجال - تنويم",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -3593,7 +3593,7 @@
   {
     "id": 74,
     "name": "npc_dota_hero_invoker",
-    "localized_name": "Invoker",
+    "localized_name": "جراحة نساء - تنويم",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3644,7 +3644,7 @@
   {
     "id": 75,
     "name": "npc_dota_hero_silencer",
-    "localized_name": "Silencer",
+    "localized_name": "باطنية رجال - تنويم",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3695,7 +3695,7 @@
   {
     "id": 76,
     "name": "npc_dota_hero_obsidian_destroyer",
-    "localized_name": "Outworld Devourer",
+    "localized_name": "باطنية نساء - تنويم",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3744,7 +3744,7 @@
   {
     "id": 77,
     "name": "npc_dota_hero_lycan",
-    "localized_name": "Lycan",
+    "localized_name": "الخدمة الاجتماعية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -3795,7 +3795,7 @@
   {
     "id": 78,
     "name": "npc_dota_hero_brewmaster",
-    "localized_name": "Brewmaster",
+    "localized_name": "عيادة تخطيط القلب",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -3846,7 +3846,7 @@
   {
     "id": 79,
     "name": "npc_dota_hero_shadow_demon",
-    "localized_name": "Shadow Demon",
+    "localized_name": "قسم القلب بالعيادات",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3896,7 +3896,7 @@
   {
     "id": 80,
     "name": "npc_dota_hero_lone_druid",
-    "localized_name": "Lone Druid",
+    "localized_name": "السنترال",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -3946,7 +3946,7 @@
   {
     "id": 81,
     "name": "npc_dota_hero_chaos_knight",
-    "localized_name": "Chaos Knight",
+    "localized_name": "التوعية وتعزيز الصحة",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -3997,7 +3997,7 @@
   {
     "id": 82,
     "name": "npc_dota_hero_meepo",
-    "localized_name": "Meepo",
+    "localized_name": "الطوارئ - رئيس الاطباء",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -4049,7 +4049,7 @@
   {
     "id": 83,
     "name": "npc_dota_hero_treant",
-    "localized_name": "Treant Protector",
+    "localized_name": "طبيب جراحة التجميل ووحدة الحروق",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4100,7 +4100,7 @@
   {
     "id": 84,
     "name": "npc_dota_hero_ogre_magi",
-    "localized_name": "Ogre Magi",
+    "localized_name": "رئيس جراحة التجميل ووحدة الحروق",
     "primary_attr": "int",
     "attack_type": "Melee",
     "roles": [
@@ -4151,7 +4151,7 @@
   {
     "id": 85,
     "name": "npc_dota_hero_undying",
-    "localized_name": "Undying",
+    "localized_name": "مستودع الخدمات",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4201,7 +4201,7 @@
   {
     "id": 86,
     "name": "npc_dota_hero_rubick",
-    "localized_name": "Rubick",
+    "localized_name": "الطوارئ - ملاحظة رجال",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -4250,7 +4250,7 @@
   {
     "id": 87,
     "name": "npc_dota_hero_disruptor",
-    "localized_name": "Disruptor",
+    "localized_name": "الطوارئ - ملاحظة نساء",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -4300,7 +4300,7 @@
   {
     "id": 88,
     "name": "npc_dota_hero_nyx_assassin",
-    "localized_name": "Nyx Assassin",
+    "localized_name": "المكتبة الطبية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -4350,7 +4350,7 @@
   {
     "id": 89,
     "name": "npc_dota_hero_naga_siren",
-    "localized_name": "Naga Siren",
+    "localized_name": "النسائية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -4402,7 +4402,7 @@
   {
     "id": 90,
     "name": "npc_dota_hero_keeper_of_the_light",
-    "localized_name": "Keeper of the Light",
+    "localized_name": "عيادة تخطيط الدماغ والاعصاب",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -4452,7 +4452,7 @@
   {
     "id": 91,
     "name": "npc_dota_hero_wisp",
-    "localized_name": "Io",
+    "localized_name": "عيادة الانف والاذن والحنجرة",
     "primary_attr": "str",
     "attack_type": "Ranged",
     "roles": [
@@ -4501,7 +4501,7 @@
   {
     "id": 92,
     "name": "npc_dota_hero_visage",
-    "localized_name": "Visage",
+    "localized_name": "مختبر العيادات",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -4552,7 +4552,7 @@
   {
     "id": 93,
     "name": "npc_dota_hero_slark",
-    "localized_name": "Slark",
+    "localized_name": "النفايات الطبية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -4602,7 +4602,7 @@
   {
     "id": 94,
     "name": "npc_dota_hero_medusa",
-    "localized_name": "Medusa",
+    "localized_name": "رئيس قسم الباطنية",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -4651,7 +4651,7 @@
   {
     "id": 95,
     "name": "npc_dota_hero_troll_warlord",
-    "localized_name": "Troll Warlord",
+    "localized_name": "رئيس قسم الجراحة",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -4701,7 +4701,7 @@
   {
     "id": 96,
     "name": "npc_dota_hero_centaur",
-    "localized_name": "Centaur Warrunner",
+    "localized_name": "اخصائية التغذية العلاجية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4752,7 +4752,7 @@
   {
     "id": 97,
     "name": "npc_dota_hero_magnataur",
-    "localized_name": "Magnus",
+    "localized_name": "عيادة الاشعة البنفسجية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4802,7 +4802,7 @@
   {
     "id": 98,
     "name": "npc_dota_hero_shredder",
-    "localized_name": "Timbersaw",
+    "localized_name": "عيادة الباطنية بالعيادات",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4851,7 +4851,7 @@
   {
     "id": 99,
     "name": "npc_dota_hero_bristleback",
-    "localized_name": "Bristleback",
+    "localized_name": "عيادة الموظفين",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4901,7 +4901,7 @@
   {
     "id": 100,
     "name": "npc_dota_hero_tusk",
-    "localized_name": "Tusk",
+    "localized_name": "المدير الطبي بالمختبر",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -4950,7 +4950,7 @@
   {
     "id": 101,
     "name": "npc_dota_hero_skywrath_mage",
-    "localized_name": "Skywrath Mage",
+    "localized_name": "مشرف امراض الدم بالمختبر",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -4999,7 +4999,7 @@
   {
     "id": 102,
     "name": "npc_dota_hero_abaddon",
-    "localized_name": "Abaddon",
+    "localized_name": "المدير الطبي بالمختبر",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -5048,7 +5048,7 @@
   {
     "id": 103,
     "name": "npc_dota_hero_elder_titan",
-    "localized_name": "Elder Titan",
+    "localized_name": "استقبال المختبر الرئيسي  والنتائج",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -5098,7 +5098,7 @@
   {
     "id": 104,
     "name": "npc_dota_hero_legion_commander",
-    "localized_name": "Legion Commander",
+    "localized_name": "الامن",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -5149,7 +5149,7 @@
   {
     "id": 105,
     "name": "npc_dota_hero_techies",
-    "localized_name": "Techies",
+    "localized_name": "مساعد المدير للتدريب والتخطيط",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -5193,7 +5193,7 @@
   {
     "id": 106,
     "name": "npc_dota_hero_ember_spirit",
-    "localized_name": "Ember Spirit",
+    "localized_name": "التجهيزات الطبية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -5244,7 +5244,7 @@
   {
     "id": 107,
     "name": "npc_dota_hero_earth_spirit",
-    "localized_name": "Earth Spirit",
+    "localized_name": "عيادة الاسنان - نساء",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -5295,7 +5295,7 @@
   {
     "id": 108,
     "name": "npc_dota_hero_abyssal_underlord",
-    "localized_name": "Underlord",
+    "localized_name": "عيادة الاسنان - رجال",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -5346,7 +5346,7 @@
   {
     "id": 109,
     "name": "npc_dota_hero_terrorblade",
-    "localized_name": "Terrorblade",
+    "localized_name": "الخدمة الاجتماعية-رجال",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -5395,7 +5395,7 @@
   {
     "id": 110,
     "name": "npc_dota_hero_phoenix",
-    "localized_name": "Phoenix",
+    "localized_name": "الخدمة الاجتماعية- نساء",
     "primary_attr": "str",
     "attack_type": "Ranged",
     "roles": [
@@ -5446,7 +5446,7 @@
   {
     "id": 111,
     "name": "npc_dota_hero_oracle",
-    "localized_name": "Oracle",
+    "localized_name": "الصحة العامة",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -5496,7 +5496,7 @@
   {
     "id": 112,
     "name": "npc_dota_hero_winter_wyvern",
-    "localized_name": "Winter Wyvern",
+    "localized_name": "مكافحة العدوى",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -5545,7 +5545,7 @@
   {
     "id": 113,
     "name": "npc_dota_hero_arc_warden",
-    "localized_name": "Arc Warden",
+    "localized_name": "مختبر تشريح النسيج",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -5594,7 +5594,7 @@
   {
     "id": 114,
     "name": "npc_dota_hero_monkey_king",
-    "localized_name": "Monkey King",
+    "localized_name": "الجودة",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -5644,7 +5644,7 @@
   {
     "id": 119,
     "name": "npc_dota_hero_dark_willow",
-    "localized_name": "Dark Willow",
+    "localized_name": "الصيانة الطبية",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -5690,7 +5690,7 @@
   {
     "id": 120,
     "name": "npc_dota_hero_pangolier",
-    "localized_name": "Pangolier",
+    "localized_name": "الحركة",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
