@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "npc_dota_hero_antimage",
-    "localized_name": "saud",
-    "primary_attr": "agi",
-    "attack_type": "Melee",
+    "localized_name": "مدير المستشفى",
+    "primary_attr": "9090",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Escape",
@@ -51,9 +51,9 @@
   {
     "id": 2,
     "name": "npc_dota_hero_axe",
-    "localized_name": "Ali",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "مدير مكتب المدير",
+    "primary_attr": "9091",
+    "attack_type": "",
     "roles": [
       "Initiator",
       "Durable",
@@ -101,9 +101,9 @@
   {
     "id": 3,
     "name": "npc_dota_hero_bane",
-    "localized_name": "Badr",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "غرفة الاجتماعات",
+    "primary_attr": "9022",
+    "attack_type": "",
     "roles": [
       "Support",
       "Disabler",
@@ -151,9 +151,9 @@
   {
     "id": 4,
     "name": "npc_dota_hero_bloodseeker",
-    "localized_name": "Fahd",
-    "primary_attr": "agi",
-    "attack_type": "Melee",
+    "localized_name": "سكرتيرة المدير",
+    "primary_attr": "9007",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Disabler",
@@ -202,9 +202,9 @@
   {
     "id": 5,
     "name": "npc_dota_hero_crystal_maiden",
-    "localized_name": "Sime",
-    "primary_attr": "int",
-    "attack_type": "Ranged",
+    "localized_name": "مساعد المدير",
+    "primary_attr": "9070",
+    "attack_type": "",
     "roles": [
       "Support",
       "Disabler",
@@ -252,8 +252,8 @@
   {
     "id": 6,
     "name": "npc_dota_hero_drow_ranger",
-    "localized_name": "Drow Ranger",
-    "primary_attr": "agi",
+    "localized_name": "مدير مكتب مساعد المدير",
+    "primary_attr": "9190",
     "attack_type": "Ranged",
     "roles": [
       "Carry",
@@ -301,9 +301,9 @@
   {
     "id": 7,
     "name": "npc_dota_hero_earthshaker",
-    "localized_name": "Earthshaker",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "مساعد المدير المالي والاداري",
+    "primary_attr": "9098",
+    "attack_type": "6161",
     "roles": [
       "Support",
       "Initiator",
@@ -351,9 +351,9 @@
   {
     "id": 8,
     "name": "npc_dota_hero_juggernaut",
-    "localized_name": "Juggernaut",
-    "primary_attr": "agi",
-    "attack_type": "Melee",
+    "localized_name": "المدير الطبي",
+    "primary_attr": "9080",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Pusher",
