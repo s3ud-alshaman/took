@@ -1104,9 +1104,9 @@
   {
     "id": 23,
     "name": "npc_dota_hero_kunkka",
-    "localized_name": "Kunkka",
-    "primary_attr": "str",
-    "attack_type": "Melee",
+    "localized_name": "النظافة",
+    "primary_attr": "1111",
+    "attack_type": "",
     "roles": [
       "Carry",
       "Disabler",
@@ -1114,7 +1114,7 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/heroes/kunkka_full.png?",
+    "img": "cleanness.png",
     "icon": "/apps/dota2/images/heroes/kunkka_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
