@@ -1114,7 +1114,7 @@
       "Durable",
       "Nuker"
     ],
-    "img": "cleanness.png",
+    "img": "obesity.png",
     "icon": "/apps/dota2/images/heroes/kunkka_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
