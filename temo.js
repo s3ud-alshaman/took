@@ -1949,7 +1949,7 @@
   {
     "id": 41,
     "name": "npc_dota_hero_faceless_void",
-    "localized_name": "Faceless Void",
+    "localized_name": "الرضاعة الطبيعية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -2000,7 +2000,7 @@
   {
     "id": 42,
     "name": "npc_dota_hero_skeleton_king",
-    "localized_name": "Wraith King",
+    "localized_name": "مدير الإدارة القانونية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2051,7 +2051,7 @@
   {
     "id": 43,
     "name": "npc_dota_hero_death_prophet",
-    "localized_name": "Death Prophet",
+    "localized_name": "صالة كافتريا الرجال",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2101,7 +2101,7 @@
   {
     "id": 44,
     "name": "npc_dota_hero_phantom_assassin",
-    "localized_name": "Phantom Assassin",
+    "localized_name": "صالة كافتريا النساء",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -2149,7 +2149,7 @@
   {
     "id": 45,
     "name": "npc_dota_hero_pugna",
-    "localized_name": "Pugna",
+    "localized_name": "العلاقات العامة",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2197,7 +2197,7 @@
   {
     "id": 46,
     "name": "npc_dota_hero_templar_assassin",
-    "localized_name": "Templar Assassin",
+    "localized_name": "مركز السكر - المدير",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -2245,7 +2245,7 @@
   {
     "id": 47,
     "name": "npc_dota_hero_viper",
-    "localized_name": "Viper",
+    "localized_name": "مركز السكر -مساعد المدير",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -2295,7 +2295,7 @@
   {
     "id": 48,
     "name": "npc_dota_hero_luna",
-    "localized_name": "Luna",
+    "localized_name": "مركز السكر - رئيسة التمريض",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -2344,7 +2344,7 @@
   {
     "id": 49,
     "name": "npc_dota_hero_dragon_knight",
-    "localized_name": "Dragon Knight",
+    "localized_name": "مركز السكر - الاستقبال",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2396,7 +2396,7 @@
   {
     "id": 50,
     "name": "npc_dota_hero_dazzle",
-    "localized_name": "Dazzle",
+    "localized_name": "وحدة الاستقطاب",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2445,7 +2445,7 @@
   {
     "id": 51,
     "name": "npc_dota_hero_rattletrap",
-    "localized_name": "Clockwerk",
+    "localized_name": " رئيس التغذية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2495,7 +2495,7 @@
   {
     "id": 52,
     "name": "npc_dota_hero_leshrac",
-    "localized_name": "Leshrac",
+    "localized_name": "الاتصالات الادارية",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2546,7 +2546,7 @@
   {
     "id": 53,
     "name": "npc_dota_hero_furion",
-    "localized_name": "Nature's Prophet",
+    "localized_name": "إدارة الاسرّة",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2597,7 +2597,7 @@
   {
     "id": 54,
     "name": "npc_dota_hero_life_stealer",
-    "localized_name": "Lifestealer",
+    "localized_name": "االاشعه - الاستقبال",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2648,7 +2648,7 @@
   {
     "id": 55,
     "name": "npc_dota_hero_dark_seer",
-    "localized_name": "Dark Seer",
+    "localized_name": "الموارد البشرية",
     "primary_attr": "int",
     "attack_type": "Melee",
     "roles": [
@@ -2698,7 +2698,7 @@
   {
     "id": 56,
     "name": "npc_dota_hero_clinkz",
-    "localized_name": "Clinkz",
+    "localized_name": "مكتب الدخول",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -2747,7 +2747,7 @@
   {
     "id": 57,
     "name": "npc_dota_hero_omniknight",
-    "localized_name": "Omniknight",
+    "localized_name": "الارشيف – ملفات الموظفين",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2796,7 +2796,7 @@
   {
     "id": 58,
     "name": "npc_dota_hero_enchantress",
-    "localized_name": "Enchantress",
+    "localized_name": "مراقبة المخزون",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -2847,7 +2847,7 @@
   {
     "id": 59,
     "name": "npc_dota_hero_huskar",
-    "localized_name": "Huskar",
+    "localized_name": "العناية المركزة",
     "primary_attr": "str",
     "attack_type": "Ranged",
     "roles": [
@@ -2896,7 +2896,7 @@
   {
     "id": 60,
     "name": "npc_dota_hero_night_stalker",
-    "localized_name": "Night Stalker",
+    "localized_name": "المناظير",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -2947,7 +2947,7 @@
   {
     "id": 61,
     "name": "npc_dota_hero_broodmother",
-    "localized_name": "Broodmother",
+    "localized_name": "التقارير الطبية - العيادات الخارجية",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -2997,7 +2997,7 @@
   {
     "id": 62,
     "name": "npc_dota_hero_bounty_hunter",
-    "localized_name": "Bounty Hunter",
+    "localized_name": "الوفيات",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -3045,7 +3045,7 @@
   {
     "id": 63,
     "name": "npc_dota_hero_weaver",
-    "localized_name": "Weaver",
+    "localized_name": "اهلية العلاج",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -3093,7 +3093,7 @@
   {
     "id": 64,
     "name": "npc_dota_hero_jakiro",
-    "localized_name": "Jakiro",
+    "localized_name": "المدير المناوب",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3143,7 +3143,7 @@
   {
     "id": 65,
     "name": "npc_dota_hero_batrider",
-    "localized_name": "Batrider",
+    "localized_name": "مركز التدريب بالعيادات ( تمريض)",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3193,7 +3193,7 @@
   {
     "id": 66,
     "name": "npc_dota_hero_chen",
-    "localized_name": "Chen",
+    "localized_name": "التنسيق الطبي - احالتي",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3242,7 +3242,7 @@
   {
     "id": 67,
     "name": "npc_dota_hero_spectre",
-    "localized_name": "Spectre",
+    "localized_name": "الاسعاف",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -3291,7 +3291,7 @@
   {
     "id": 68,
     "name": "npc_dota_hero_ancient_apparition",
-    "localized_name": "Ancient Apparition",
+    "localized_name": "التدريب والتعليم",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -3340,7 +3340,7 @@
   {
     "id": 69,
     "name": "npc_dota_hero_doom_bringer",
-    "localized_name": "Doom",
+    "localized_name": "العناية القلبية",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
