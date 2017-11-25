@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "npc_dota_hero_antimage",
-    "localized_name": "saud",
+    "localized_name": "د/ طارق البلوي",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -51,7 +51,7 @@
   {
     "id": 2,
     "name": "npc_dota_hero_axe",
-    "localized_name": "Ali",
+    "localized_name": "د/ فهد مرشد العنزي",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -101,7 +101,7 @@
   {
     "id": 3,
     "name": "npc_dota_hero_bane",
-    "localized_name": "Badr",
+    "localized_name": "د/ بدر",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -151,7 +151,7 @@
   {
     "id": 4,
     "name": "npc_dota_hero_bloodseeker",
-    "localized_name": "Fahd",
+    "localized_name": "د/ سالم",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -202,7 +202,7 @@
   {
     "id": 5,
     "name": "npc_dota_hero_crystal_maiden",
-    "localized_name": "Sime",
+    "localized_name": "د/ خالد",
     "primary_attr": "int",
     "attack_type": "Ranged",
     "roles": [
@@ -252,7 +252,7 @@
   {
     "id": 6,
     "name": "npc_dota_hero_drow_ranger",
-    "localized_name": "Drow Ranger",
+    "localized_name": "د/ بدر احمد محمد",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
@@ -301,7 +301,7 @@
   {
     "id": 7,
     "name": "npc_dota_hero_earthshaker",
-    "localized_name": "Earthshaker",
+    "localized_name": "د/ سليمان مسلم",
     "primary_attr": "str",
     "attack_type": "Melee",
     "roles": [
@@ -351,7 +351,7 @@
   {
     "id": 8,
     "name": "npc_dota_hero_juggernaut",
-    "localized_name": "Juggernaut",
+    "localized_name": "د/ حسام خالد علي",
     "primary_attr": "agi",
     "attack_type": "Melee",
     "roles": [
@@ -400,7 +400,7 @@
   {
     "id": 9,
     "name": "npc_dota_hero_mirana",
-    "localized_name": "Mirana",
+    "localized_name": "د/ علي عبدالله احمد",
     "primary_attr": "agi",
     "attack_type": "Ranged",
     "roles": [
