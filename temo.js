@@ -1106,13 +1106,7 @@
     "name": "npc_dota_hero_kunkka",
     "localized_name": "النظافة",
     "primary_attr": "1111",
-    "attack_type": "",
-    "roles": [
-      "Carry",
-      "Disabler",
-      "Initiator",
-      "Durable",
-      "Nuker"
+    "attack_type": ""
     ],
     "img": "cleanness.png",
     "icon": "cleanness.png",
