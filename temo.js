@@ -1115,7 +1115,7 @@
       "Nuker"
     ],
     "img": "cleanness.png",
-    "icon": "/apps/dota2/images/heroes/kunkka_icon.png",
+    "icon": "cleanness.png",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
