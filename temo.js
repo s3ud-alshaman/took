@@ -1107,6 +1107,12 @@
     "localized_name": "النظافة",
     "primary_attr": "1111",
     "attack_type": ""
+        "roles": [
+      "Carry",
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
     ],
     "img": "cleanness.png",
     "icon": "cleanness.png",
