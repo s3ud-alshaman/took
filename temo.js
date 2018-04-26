@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "npc_dota_hero_antimage",
+    "name": " 01442900044",
     "localized_name": "مدير المستشفى",
     "primary_attr": "9090",
-    "attack_type": "",
+    "attack_type": "9091",
     "roles": [
       "Carry",
       "Escape",
       "Nuker"
     ],
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
-    "icon": "/apps/dota2/images/heroes/antimage_icon.png",
+    "icon": "المبنى الرئيسي - الدو الأرضي",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
@@ -32,7 +32,7 @@
     "move_speed": 310,
     "turn_rate": 0.5,
     "cm_enabled": true,
-    "legs":"05555",
+    "legs":"alshaman64@gmail.com",
     "pro_win": 48,
     "pro_pick": 88,
     "hero_id": 1,
