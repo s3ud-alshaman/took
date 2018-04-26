@@ -32,7 +32,7 @@
     "move_speed": 310,
     "turn_rate": 0.5,
     "cm_enabled": true,
-    "legs": 5555,
+    "legs":"05555",
     "pro_win": 48,
     "pro_pick": 88,
     "hero_id": 1,
