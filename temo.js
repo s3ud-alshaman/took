@@ -11,7 +11,7 @@
       "Nuker"
     ],
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
-    "icon": "المبنى الرئيسي - الدو الأرضي",
+    "icon": "المبنى الرئيسي - الدور الأرضي",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
