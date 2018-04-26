@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": " 01442900044",
+    "name": " alshaman64@gmail.com",
     "localized_name": "مدير المستشفى",
     "primary_attr": "9090",
     "attack_type": "9091",
@@ -32,7 +32,7 @@
     "move_speed": 310,
     "turn_rate": 0.5,
     "cm_enabled": true,
-    "legs":"alshaman64@gmail.com",
+    "legs":"0144245814",
     "pro_win": 48,
     "pro_pick": 88,
     "hero_id": 1,
