@@ -5642,7 +5642,7 @@
     "localized_name": "الحركة",
     "primary_attr": "agi",
     "attack_type": "Melee",
-    "Temo": "i Love Temo",
+    "temo": "i Love Temo",
     "roles": [
       "Carry",
       "Nuker",
