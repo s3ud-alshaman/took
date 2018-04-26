@@ -5650,7 +5650,7 @@
       "Escape",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/heroes/pangolier_full.png?",
+    "img": "/44.png?",
     "icon": "/apps/dota2/images/heroes/pangolier_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
