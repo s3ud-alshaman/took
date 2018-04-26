@@ -5642,7 +5642,6 @@
     "localized_name": "الحركة",
     "primary_attr": "agi",
     "attack_type": "Melee",
-    "temo": "i Love Temo",
     "roles": [
       "Carry",
       "Nuker",
@@ -5674,6 +5673,7 @@
     "turn_rate": 1,
     "cm_enabled": true,
     "legs": 2,
+    "temo": "i Love Temo",
     "2000_pick": 16171,
     "2000_win": 6663,
     "4000_pick": 8310,
