@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "name": "سعودي",
     "localized_name": "د/ طارق البلوي",
     "primary_attr": "باطنية",
+    "legs": 5678,
     "attack_type": "0545557165",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    "name": "سعودي",
     "icon": "alshaman64@gmail.com",
-    "legs": 5678,
   },
   {
     "id": 2,
-    "name": "npc_dota_hero_axe",
     "localized_name": "د/ فهد مرشد العنزي",
-    "primary_attr": "str",
-    "attack_type": "Melee",
-    "img": "/apps/dota2/images/heroes/axe_full.png?",
-    "icon": "/apps/dota2/images/heroes/axe_icon.png",
-    "legs": 2,
+    "primary_attr": "باطنية",
+    "legs": 5678,
+    "attack_type": "0545557165",
+    "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    "name": "سعودي",
+    "icon": "fahd@gmail.com",
   }
 ]
