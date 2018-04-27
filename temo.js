@@ -8,6 +8,7 @@
     "email": "alshaman64@gmail.com",
     "location": "المبنى الرئيسي - الدور الأرضي",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    
   },
   {
     "id": 2,
@@ -18,5 +19,6 @@
     "email": "alshaman64@gmail.com",
     "location": "المبنى الرئيسي - الدور الثاني",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    
   }
 ]
