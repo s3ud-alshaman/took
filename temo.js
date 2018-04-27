@@ -5,11 +5,6 @@
     "localized_name": "مدير المستشفى",
     "primary_attr": "9090",
     "attack_type": "9091",
-    "roles": [
-      "Carry",
-      "Escape",
-      "Nuker"
-    ],
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
     "icon": "المبنى الرئيسي - الدور الأرضي",
     "base_health": 200,
@@ -54,12 +49,6 @@
     "localized_name": "مدير مكتب المدير",
     "primary_attr": "9091",
     "attack_type": "",
-    "roles": [
-      "Initiator",
-      "Durable",
-      "Disabler",
-      "Jungler"
-    ],
     "img": "/apps/dota2/images/heroes/axe_full.png?",
     "icon": "/apps/dota2/images/heroes/axe_icon.png",
     "base_health": 200,
