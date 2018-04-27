@@ -1,23 +1,13 @@
 [
   {
     "id": 1,
-    "name": " alshaman64@gmail.com",
-    "localized_name": "مدير المستشفى",
-    "primary_attr": "9090",
-    "attack_type": "9091",
+    "name": "مدير المستشفى",
+    "ext": "9090",
+    "more_ext": "9091",
+    "phone":"0144245814",
+    "email": "alshaman64@gmail.com",
+    "Location": "المبنى الرئيسي - الدور الأرضي",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
-    "icon": "المبنى الرئيسي - الدور الأرضي",
-    "legs":"0144245814",
-  },
-  {
-    "id": 2,
-    "name": "npc_dota_hero_axe",
-    "localized_name": "مدير مكتب المدير",
-    "primary_attr": "9091",
-    "attack_type": "",
-    "img": "/apps/dota2/images/heroes/axe_full.png?",
-    "icon": "/apps/dota2/images/heroes/axe_icon.png",
-   "legs":"05555",
   }
 
 ]
