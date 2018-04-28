@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "د/ طارق البلوي",
-    "specialty": "باطنية",
-    "pager": "943",
-    "Mobile": "0500938382",
+    "specialty": "أ/ باطنية",
+    "pager": "656",
+    "Mobile": "0503585951",
     "nationality": "سعودي",
     "email": "alshaman64@gmail.com",
     "img": "/22.jpg",
@@ -12,11 +12,22 @@
   },
   {
     "id": 2,
-    "name": "د/ فهد مرشذ العنزي",
+    "name": "د/ فهد مرشد العنزي",
     "specialty": "عيون",
     "pager": "275",
     "Mobile": "0545557164",
     "nationality": "سعودي",
+    "email": "s3do_14@hotmail.com",
+    "img": "",
+    
+  },
+  {
+    "id": 2,
+    "name": "د/ زهراء",
+    "specialty": "اخصائي جراحة",
+    "pager": "",
+    "Mobile": "0590590447",
+    "nationality": "باكستانيه",
     "email": "alshaman64@gmail.com",
     "img": "",
     
