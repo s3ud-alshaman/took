@@ -1,24 +1,24 @@
 [
   {
     "id": 1,
-    "name": "مدير ",
-    "specialty": "9090",
+    "name": "د/ طارق البلوي",
+    "specialty": "باطنية",
+    "pager": "943",
     "Mobile": "0500938382",
-    "pager": "0144245814",
-    "nationality": "alshaman64@gmail.com",
-    "email": "المبنى الرئيسي - الدور الأرضي",
-    "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    "nationality": "سعودي",
+    "email": "alshaman64@gmail.com",
+    "img": "/22.jpg",
     
   },
   {
     "id": 2,
-    "name": "مساعد ",
-    "specialty": "9090",
+    "name": "د/ فهد مرشذ العنزي",
+    "specialty": "عيون",
+    "pager": "275",
     "Mobile": "0545557164",
-    "pager": "0144245814",
-    "nationality": "alshaman64@gmail.com",
-    "email": "المبنى الرئيسي - الدور الثاني",
-    "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    "nationality": "سعودي",
+    "email": "alshaman64@gmail.com",
+    "img": "",
     
   }
 ]
