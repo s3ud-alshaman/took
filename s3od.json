@@ -9,4 +9,15 @@
     "email": "tarek@gmail.com",
     "img": "/22.jpg",
  
+  },
+  {
+    "id": 1,
+    "localized_name": "د/ طارق البلوي",
+    "specialty": "باطنية",
+    "pager": "8888",
+    "mobile": "0500938382",
+    "name": "سعودي",
+    "email": "tarek@gmail.com",
+    "img": "/22.jpg",
+    
   }
