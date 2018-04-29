@@ -22,13 +22,24 @@
     
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "د/ زهراء",
     "specialty": "اخصائي جراحة",
     "pager": "",
     "Mobile": "0590590447",
     "nationality": "باكستانيه",
     "email": "alshaman64@gmail.com",
+    "img": "",
+    
+  },
+  {
+    "id": 4,
+    "name": "م/ طارق",
+    "specialty": "برمجيات",
+    "pager": "5555",
+    "Mobile": "0500938382",
+    "nationality": "سعودي",
+    "email": "alshaman@gmail.com",
     "img": "",
     
   }
