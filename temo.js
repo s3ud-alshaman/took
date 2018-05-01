@@ -8,6 +8,7 @@
     "phone": "0144245814",
     "email": "alshaman64@gmail.com",
     "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - Ground Floor",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
     
   },
@@ -20,6 +21,7 @@
     "phone": "0144245814",
     "email": "alshaman64@gmail.com",
     "location": "المبنى الرئيسي - الدور الثاني",
+    "location_en": "Main Building - Ground Floor",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
     
   }
