@@ -2,10 +2,13 @@
   {
     "id": 1,
     "name": "د/ طارق البلوي",
+    "name_en": "Dr. Tarek Al-Balawi",
     "specialty": "أ/ باطنية",
+    "specialty_en": "Internal",
     "pager": "656",
     "Mobile": "0503585951",
     "nationality": "سعودي",
+    "nationality_en": "Saudi",
     "email": "alshaman64@gmail.com",
     "img": "/22.jpg",
     
@@ -13,10 +16,13 @@
   {
     "id": 2,
     "name": "د/ فهد مرشد العنزي",
-    "specialty": "عيون",
+    "name_en": "Dr. Fahd Morshed Al Enazi",
+    "specialty": "eyes",
+    "specialty_en": "Internal",
     "pager": "275",
     "Mobile": "0545557164",
     "nationality": "سعودي",
+    "nationality_en": "Saudi",
     "email": "s3do_14@hotmail.com",
     "img": "",
     
@@ -24,22 +30,14 @@
   {
     "id": 3,
     "name": "د/ زهراء",
-    "specialty": "اخصائي جراحة",
+    "name_en": "Dr. Zahra",
+    "specialty": "Surgery",
+    "specialty_en": "Internal",
     "pager": "",
     "Mobile": "0590590447",
-    "nationality": "باكستانيه",
+    "nationality": "باكستان",
+    "nationality_en": "Pakistan",
     "email": "alshaman64@gmail.com",
-    "img": "",
-    
-  },
-  {
-    "id": 4,
-    "name": "م/ طارق",
-    "specialty": "برمجيات",
-    "pager": "5555",
-    "Mobile": "0500938382",
-    "nationality": "سعودي",
-    "email": "alshaman@gmail.com",
     "img": "",
     
   }
