@@ -40,5 +40,19 @@
     "email": "alshaman64@gmail.com",
     "img": "",
     
+  },
+  {
+    "id": 4,
+    "name": "د/ سامي",
+    "name_en": "Dr. Sami",
+    "specialty": "جراحة",
+    "specialty_en": "Surgery",
+    "pager": "4785",
+    "Mobile": "0590590444",
+    "nationality": "سوري",
+    "nationality_en": "syrean",
+    "email": "syrean@gmail.com",
+    "img": "",
+    
   }
 ]
