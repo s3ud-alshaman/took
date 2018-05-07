@@ -18,7 +18,7 @@
     "name_en": "Central",
     "ext": "8",
     "more_ext": "7070",
-    "phone": "0144259000",
+    "phone": "",
     "email": "",
     "location": "المبنى الرئيسي - القبو",
     "location_en": "Main Building - Basement",
@@ -33,7 +33,7 @@
     "more_ext": "3031",
     "phone": "",
     "email": "",
-    "location": "مبنى العيادات - الدور الثاني",
+    "location": "",
     "location_en": "Main Building - Basement",
     "img": "/",
     
