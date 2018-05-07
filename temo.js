@@ -74,7 +74,7 @@
     "email": "-",
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
-    "img": "/44.png",
+    "img": "/cleanness.png",
     
 },
   {
