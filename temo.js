@@ -102,6 +102,19 @@
     "location_en": "Main Building - Basement",
     "img": "/Birth.png",
     
+},
+  {
+    "id": 9,
+    "name": "العيادات - عيادة العظام",
+    "name_en": "OPD - Bones",
+    "ext": "1500",
+    "more_ext": "1501",
+    "phone": "-",
+    "email": "-",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/Bones.png",
+    
 }
   
 ]
