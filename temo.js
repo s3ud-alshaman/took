@@ -37,5 +37,19 @@
     "location_en": "Main Building - Basement",
     "img": "/apps/dota2/images/heroes/antimage_full.png?",
     
-  }
+  },
+  {
+    "id": 4,
+    "name": "الصيانة - اصلاح الأعطال",
+    "name_en": "Maintenance - Repair Faults",
+    "ext": "6000",
+    "more_ext": "-",
+    "phone": "-",
+    "email": "-",
+    "location": "مبنى الخدمات - الدور الثاني",
+    "location_en": "Services Building - Second Floor",
+    "img": "/22.png",
+    
+}
+  
 ]
