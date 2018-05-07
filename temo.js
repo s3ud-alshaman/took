@@ -65,7 +65,7 @@
     
 },
   {
-    "id": 5,
+    "id": 6,
     "name": "النظافة",
     "name_en": "Cleanliness",
     "ext": "6000",
@@ -75,6 +75,19 @@
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/44.png",
+    
+},
+  {
+    "id": 7,
+    "name": "الصيدلية - الداخلية",
+    "name_en": "Pharmacy - Internal",
+    "ext": "6000",
+    "more_ext": "-",
+    "phone": "-",
+    "email": "-",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/66.png",
     
 }
   
