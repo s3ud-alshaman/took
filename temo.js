@@ -22,7 +22,7 @@
     "email": "alshaman64@gmail.com",
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
-    "img": "/apps/dota2/images/heroes/antimage_full.png?",
+    "img": "/Central.png",
     
   },
   {
