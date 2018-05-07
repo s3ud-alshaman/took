@@ -53,13 +53,13 @@
 },
   {
     "id": 5,
-    "name": "الحركة",
+    "name": "صيانة الحاسب",
     "name_en": "Movement",
-    "ext": "6000",
-    "more_ext": "-",
+    "ext": "4000",
+    "more_ext": "4001-4002-4003-4004",
     "phone": "-",
     "email": "-",
-    "location": "أمام مبنى الخدمات",
+    "location": "العيادات الخارجية - الدور الثاني",
     "location_en": "Opposite the service building",
     "img": "/55.png",
     
@@ -88,6 +88,19 @@
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/66.png",
+    
+},
+  {
+    "id": 8,
+    "name": "الولادة - التنويم",
+    "name_en": "Birth - Hypnosis",
+    "ext": "1500",
+    "more_ext": "1501",
+    "phone": "-",
+    "email": "-",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/Birth.png",
     
 }
   
