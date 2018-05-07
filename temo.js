@@ -50,6 +50,32 @@
     "location_en": "Services Building - Second Floor",
     "img": "/22.png",
     
+},
+  {
+    "id": 5,
+    "name": "الحركة",
+    "name_en": "Movement",
+    "ext": "6000",
+    "more_ext": "-",
+    "phone": "-",
+    "email": "-",
+    "location": "أمام مبنى الخدمات",
+    "location_en": "Opposite the service building",
+    "img": "/33.png",
+    
+},
+  {
+    "id": 5,
+    "name": "النظافة",
+    "name_en": "Cleanliness",
+    "ext": "6000",
+    "more_ext": "-",
+    "phone": "-",
+    "email": "-",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/44.png",
+    
 }
   
 ]
