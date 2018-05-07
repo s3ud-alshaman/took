@@ -61,7 +61,7 @@
     "email": "-",
     "location": "أمام مبنى الخدمات",
     "location_en": "Opposite the service building",
-    "img": "/33.png",
+    "img": "/33.PNG",
     
 },
   {
