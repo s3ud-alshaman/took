@@ -115,6 +115,19 @@
     "location_en": "Main Building - Basement",
     "img": "/Bones.png",
     
+},
+  {
+    "id": 10,
+    "name": "العيادات - عيادة القلب",
+    "name_en": "OPD",
+    "ext": "1234",
+    "more_ext": "4321",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي",
+    "location_en": "Main Building - Basement",
+    "img": "/Bones.png",
+    
 }
   
 ]
