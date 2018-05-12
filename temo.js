@@ -224,10 +224,24 @@
     
 },
   {
-    "id": 16,
+    "id": 17,
     "name": "الطوارى - الأشعه",
     "name_en": "ER - X-RAY",
     "ext": "9004",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
+},
+  {
+    "id": 18,
+    "name": "الطوارى - الولادة",
+    "name_en": "ER - OP",
+    "ext": "1155",
     "more_ext": "",
     "phone": "",
     "email": "",
