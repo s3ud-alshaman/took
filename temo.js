@@ -138,9 +138,7 @@
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
-}
-  
-],
+},
   {
     "id": 11,
     "name": "العيادات الخارجية - الاستقبال",
@@ -155,3 +153,4 @@
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 }
+  
