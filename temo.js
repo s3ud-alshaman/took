@@ -190,7 +190,7 @@
     "phone": "",
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
-    "location_en": "Main Building -Ground Floor ",
+    "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
