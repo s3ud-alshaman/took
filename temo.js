@@ -10,7 +10,6 @@
     "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "Main Building - Ground Floor",
     "img": "/",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
   },
   {
@@ -24,7 +23,6 @@
     "location": "المبنى الرئيسي - القبو",
     "location_en": "Main Building - Basement",
     "img": "/Central.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
   },
   {
@@ -38,7 +36,6 @@
     "location": "",
     "location_en": "OPD Building",
     "img": "/",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
   },
   {
@@ -52,7 +49,6 @@
     "location": "مبنى الخدمات - الدور الثاني",
     "location_en": "Services Building - Second Floor",
     "img": "/22.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -66,7 +62,6 @@
     "location": "العيادات الخارجية - الدور الثاني",
     "location_en": "Opposite the service building",
     "img": "/55.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -80,7 +75,6 @@
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/cleanness.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -94,7 +88,6 @@
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/66.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -108,7 +101,6 @@
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/Birth.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -122,7 +114,6 @@
     "location": "مبنى العيادات",
     "location_en": "OPD Building",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -136,7 +127,6 @@
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -150,7 +140,6 @@
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -164,7 +153,6 @@
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -178,7 +166,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -192,7 +179,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -206,7 +192,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -220,7 +205,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -234,7 +218,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -248,7 +231,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 },
   {
@@ -262,7 +244,6 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/Bones.png",
-    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 }
 ]  
