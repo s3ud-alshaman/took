@@ -245,5 +245,18 @@
     "location_en": "Main Building -Ground Floor",
     "img": "/",
     
+},
+  {
+    "id": 20,
+    "name": "الطوارى - ملاحظة الرجال",
+    "name_en": "ER - Male",
+    "ext": "",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
 }
 ]  
