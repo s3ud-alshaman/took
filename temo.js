@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "مدير المستشفى",
-    "name_en": "Hospital Manager",
+    "name_en": "Hospital Director",
     "ext": "9090",
     "more_ext": "9091 - 9007",
     "phone": "0144259090",
