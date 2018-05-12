@@ -154,7 +154,7 @@
     
 },
   {
-    "id": 11,
+    "id": 12,
     "name": "العيادات الخارجية - الصيدلية",
     "name_en": "OPD - Pharmacy",
     "ext": "1234",
@@ -163,6 +163,20 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
+},
+  {
+    "id": 13,
+    "name": "الطوارى - الصيدلية",
+    "name_en": "ER - Pharmacy",
+    "ext": "1234",
+    "more_ext": "4321",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor ",
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
