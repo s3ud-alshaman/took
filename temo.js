@@ -152,5 +152,19 @@
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
+},
+  {
+    "id": 11,
+    "name": "العيادات الخارجية - الصيدلية",
+    "name_en": "OPD - Pharmacy",
+    "ext": "1234",
+    "more_ext": "4321",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
 }
 ]  
