@@ -133,11 +133,25 @@
     "more_ext": "4321",
     "phone": "",
     "email": "",
-    "location": "lfkn hgudh]hj hgohv[dm",
+    "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
 }
   
-]
+],
+  {
+    "id": 10,
+    "name": "العيادات الخارجية - الاستقبال",
+    "name_en": "OPD - Reception",
+    "ext": "1234",
+    "more_ext": "4321",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
+}
