@@ -208,5 +208,19 @@
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
+},
+  {
+    "id": 16,
+    "name": "الطوارى - المدير الناوب",
+    "name_en": "ER - Director",
+    "ext": "9004",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
 }
 ]  
