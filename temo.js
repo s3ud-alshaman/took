@@ -250,5 +250,19 @@
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
+},
+  {
+    "id": 19,
+    "name": "الطوارى - ملاحظة النساء",
+    "name_en": "ER - Female",
+    "ext": "1155",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
 }
 ]  
