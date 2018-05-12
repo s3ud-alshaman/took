@@ -258,5 +258,18 @@
     "location_en": "Main Building -Ground Floor",
     "img": "/",
     
+},
+  {
+    "id": 20,
+    "name": "الطوارى - الأمن",
+    "name_en": "ER - Security",
+    "ext": "2000",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
 }
 ]  
