@@ -180,5 +180,19 @@
     "img": "/Bones.png",
     "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
+},
+  {
+    "id": 14,
+    "name": "الطوارى - الاستقبال",
+    "name_en": "ER - Reception",
+    "ext": "1161",
+    "more_ext": "1162",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor ",
+    "img": "/Bones.png",
+    "tbl": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
+    
 }
 ]  
