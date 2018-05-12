@@ -126,7 +126,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -139,7 +139,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -152,7 +152,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/Bones.png",
+    "img": "/66.png",
     
 },
   {
@@ -165,7 +165,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/66.png",
     
 },
   {
@@ -178,7 +178,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -191,7 +191,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -204,7 +204,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -217,7 +217,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/",
     
 },
   {
@@ -230,7 +230,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/Birth.png",
     
 },
   {
@@ -243,7 +243,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/Bones.png",
+    "img": "/",
     
 }
 ]  
