@@ -1,20 +1,275 @@
-‪[‬
-‪  {‬
-‪    "id": 2,
-‪    "name": "د/ فهد",‬
-‪    "name_en": "Dr/ Fahd",‬
-‪    "tbl": "عيون",‬
-‪    "tbl_en": "",‬
-‪    "Month": "8",‬‪
-  ‬
-‪  },‬
-‪  {‬
-‪    "id": 2,‬
-‪    "name": "د/ فهد",‬
-‪    "name_en": "Dr/ Fahd",‬
-‪    "tbl": "عيون",‬
-‪    "tbl_en": "",‬
-‪    "Month": "8",‬ ‬
-  
-‪  }‬
-‪]‬
+[
+  {
+    "id": 1,
+    "name": "مدير المستشفى",
+    "name_en": "Hospital Director",
+    "ext": "9090",
+    "more_ext": "9091 - 9007",
+    "phone": "0144259090",
+    "email": "",
+    "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - Ground Floor",
+    "img": "/",
+    
+  },
+  {
+    "id": 2,
+    "name": "السنترال",
+    "name_en": "Central",
+    "ext": "8",
+    "more_ext": "7070",
+    "phone": "0144259090",
+    "email": "",
+    "location": "المبنى الرئيسي - القبو",
+    "location_en": "Main Building - Basement",
+    "img": "/Central.png",
+    
+  },
+  {
+    "id": 3,
+    "name": "العيادات الخارجية - عيادة العيون",
+    "name_en": "OPD - Eye Clinic",
+    "ext": "3026",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
+  {
+    "id": 4,
+    "name": "الصيانة - اصلاح الأعطال",
+    "name_en": "Maintenance - Repair Faults",
+    "ext": "6000",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى الخدمات - الدور الثاني",
+    "location_en": "Services Building - Second Floor",
+    "img": "/22.png",
+    
+},
+  {
+    "id": 5,
+    "name": "الصحة الإلكترونية",
+    "name_en": "IT",
+    "ext": "9015",
+    "more_ext": "4001-4002-4003",
+    "phone": "0144259015",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/55.png",
+    
+},
+  {
+    "id": 6,
+    "name": "النظافة",
+    "name_en": "Cleanliness",
+    "ext": "1260",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/cleanness.png",
+    
+},
+  {
+    "id": 7,
+    "name": "الصيدلية - الداخلية",
+    "name_en": "Pharmacy - Internal",
+    "ext": "7050",
+    "more_ext": "1079-1581-1582-1583-1584",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/66.png",
+    
+},
+  {
+    "id": 8,
+    "name": "الولادة - التنويم",
+    "name_en": "Birth - Hypnosis",
+    "ext": "1500",
+    "more_ext": "1501",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/Birth.png",
+    
+},
+  {
+    "id": 9,
+    "name": "العيادات الخارجية - عيادة العظام",
+    "name_en": "OPD - ortho clinic",
+    "ext": "3028",
+    "more_ext": "3030",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات",
+    "location_en": "OPD Building",
+    "img": "/Bones.png",
+    
+},
+  {
+    "id": 10,
+    "name": "العيادات الخارجية - عيادة القلب",
+    "name_en": "OPD - CARDIO Clinic",
+    "ext": "3060",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
+  {
+    "id": 11,
+    "name": "العيادات الخارجية - الاستقبال",
+    "name_en": "OPD - Reception",
+    "ext": "3053",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
+  {
+    "id": 12,
+    "name": "العيادات الخارجية - الصيدلية",
+    "name_en": "OPD - Pharmacy",
+    "ext": "7020",
+    "more_ext": "3009",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/66.png",
+    
+},
+  {
+    "id": 13,
+    "name": "الطوارى - الصيدلية",
+    "name_en": "ER - Pharmacy",
+    "ext": "1234",
+    "more_ext": "4321",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/66.png",
+    
+},
+  {
+    "id": 14,
+    "name": "الطوارى - الاستقبال",
+    "name_en": "ER - Reception",
+    "ext": "1161",
+    "more_ext": "1162",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 15,
+    "name": "الطوارى - العلاج بالأجر",
+    "name_en": "ER - Payment Office",
+    "ext": "1158",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 16,
+    "name": "الطوارى - المدير الناوب",
+    "name_en": "ER - Director",
+    "ext": "9004",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 17,
+    "name": "الطوارى - الأشعه",
+    "name_en": "ER - X-RAY",
+    "ext": "9004",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 18,
+    "name": "الطوارى - الولادة",
+    "name_en": "ER - OP",
+    "ext": "1155",
+    "more_ext": "1246",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/Birth.png",
+    
+},
+  {
+    "id": 19,
+    "name": "الطوارى - ملاحظة النساء",
+    "name_en": "ER - Female",
+    "ext": "1155",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 20,
+    "name": "الطوارى - ملاحظة الرجال",
+    "name_en": "ER - Male",
+    "ext": "",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 20,
+    "name": "الطوارى - الأمن",
+    "name_en": "ER - Security",
+    "ext": "2000",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+}
+]  
