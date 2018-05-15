@@ -58,7 +58,7 @@
     "ext": "9015",
     "more_ext": "4001-4002-4003",
     "phone": "0144259015",
-    "email": "",
+    "email": "TB-KFH-IT@moh.gov.sa",
     "location": "العيادات الخارجية - الدور الثاني",
     "location_en": "OPD Building",
     "img": "/55.png",
