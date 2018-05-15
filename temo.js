@@ -26,6 +26,32 @@
     
   },
   {
+    "id": 2,
+    "name": "حقوق وعلاقات المرضى",
+    "name_en": "Rights and Patient Relationships",
+    "ext": "9100",
+    "more_ext": "9101-3181",
+    "phone": "0144259100",
+    "email": "TB-KFH-PRRD@moh.gov.sa",
+    "location": "المبنى الرئيسي - القبو",
+    "location_en": "",
+    "img": "/",
+    
+  },
+  {
+    "id": 2,
+    "name": "المتابعة",
+    "name_en": "",
+    "ext": "9005",
+    "more_ext": "1025",
+    "phone": "0144259005",
+    "email": "TB-KFH-PRRD@moh.gov.sa",
+    "location": "المبنى الرئيسي - القبو",
+    "location_en": "Main Building - ",
+    "img": "/",
+    
+  },
+  {
     "id": 3,
     "name": "العيادات الخارجية - عيادة العيون",
     "name_en": "OPD - Eye Clinic",
