@@ -12,6 +12,19 @@
     "img": "/",
     
   },
+   {
+    "id": 2,
+    "name": "الاتصالات الادارية",
+    "name_en": "Administrative Communications",
+    "ext": "9099",
+    "more_ext": "",
+    "phone": "0144259099",
+    "email": "TB-KFH-COMM@moh.gov.sa",
+    "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - G",
+    "img": "/",
+    
+  },
   {
     "id": 2,
     "name": "السنترال",
