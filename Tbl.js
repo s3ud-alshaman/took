@@ -12,8 +12,8 @@
     
   },
   {
-    "name": "Test",
-    "name_en": "",
+    "name": "تجربة",
+    "name_en": "Test",
     "urlPdf": "https://developer.apple.com/programs/terms/apple_developer_agreement.pdf",
     
   }
