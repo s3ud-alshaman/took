@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "د/ طارق",
-    "name_en": "Dr. Tarek",
+    "name_en": "Dr/ Tarek",
     "specialty": "أ/ باطنية",
     "specialty_en": "Internal",
     "pager": "658",
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "name": "د/ سامي",
-    "name_en": "Dr. Sami",
+    "name_en": "Dr/ Sami",
     "specialty": "جراحة",
     "specialty_en": "Surgery",
     "pager": "475",
