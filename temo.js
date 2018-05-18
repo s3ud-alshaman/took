@@ -234,6 +234,19 @@
     
 },
   {
+    "id": 6,
+    "name": "الوفيات - الثلاجة",
+    "name_en": "Deaths - Fridge",
+    "ext": "9093",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى الخدمات - الدور الأرضي",
+    "location_en": "",
+    "img": "/",
+    
+},
+  {
     "id": 7,
     "name": "الصيدلية - الداخلية",
     "name_en": "Pharmacy - Internal",
