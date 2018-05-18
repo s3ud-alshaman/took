@@ -12,6 +12,32 @@
     "img": "/",
     
   },
+  {
+    "id": 2,
+    "name": "المدير الطبي",
+    "name_en": "Medical Director",
+    "ext": "9080",
+    "more_ext": "",
+    "phone": "0144259080",
+    "email": "",
+    "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - G",
+    "img": "/",
+    
+  },
+    {
+    "id": 2,
+    "name": "المدير الطبي - السكرتير",
+    "name_en": "Medical Director - Secretary",
+    "ext": "7044",
+    "more_ext": "9082-1036",
+    "phone": "0144259081",
+    "email": "",
+    "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - G",
+    "img": "/",
+    
+  },
    {
     "id": 2,
     "name": "الاتصالات الادارية",
@@ -22,6 +48,19 @@
     "email": "TB-KFH-COMM@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "Main Building - G",
+    "img": "/",
+    
+  },
+  {
+    "id": 2,
+    "name": "الخدمات المساندة",
+    "name_en": "Support Services",
+    "ext": "9191",
+    "more_ext": "",
+    "phone": "0144259191",
+    "email": "",
+    "location": "مبنى الخدمات -الدور الثاني",
+    "location_en": "Services Building - Second Floor",
     "img": "/",
     
   },
@@ -46,7 +85,7 @@
     "more_ext": "9101-3181",
     "phone": "0144259100",
     "email": "TB-KFH-PRRD@moh.gov.sa",
-    "location": "المبنى الرئيسي - القبو",
+    "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "",
     "img": "/",
     
@@ -54,12 +93,25 @@
   {
     "id": 2,
     "name": "المتابعة",
-    "name_en": "",
+    "name_en": "Follow-up",
     "ext": "9005",
     "more_ext": "1025",
     "phone": "0144259005",
     "email": "TB-KFH-PRRD@moh.gov.sa",
-    "location": "المبنى الرئيسي - القبو",
+    "location": "المبنى الرئيسي - الدور الأرضي",
+    "location_en": "Main Building - ",
+    "img": "/",
+    
+  },
+    {
+    "id": 2,
+    "name": "المدير المالي",
+    "name_en": "Finance Manager",
+    "ext": "9098",
+    "more_ext": "6161",
+    "phone": "0144259005",
+    "email": "TB-KFH-PRRD@moh.gov.sa",
+    "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "Main Building - ",
     "img": "/",
     
