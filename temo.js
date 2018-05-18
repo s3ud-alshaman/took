@@ -105,6 +105,19 @@
   },
   {
     "id": 2,
+    "name": "الارشيف – ملفات الموظفين",
+    "name_en": "Archive - Staff Files",
+    "ext": "1209",
+    "more_ext": "1210",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - القبو",
+    "location_en": "Main Building - Basement",,
+    "img": "/",
+    
+  },
+  {
+    "id": 2,
     "name": "حقوق وعلاقات المرضى",
     "name_en": "Rights and Patient Relationships",
     "ext": "9100",
