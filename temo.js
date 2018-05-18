@@ -221,6 +221,19 @@
     
 },
   {
+    "id": 6,
+    "name": "المغسلة",
+    "name_en": "Laundry",
+    "ext": "4040",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - البدروم",
+    "location_en": "Main Building - Basement",
+    "img": "/",
+    
+},
+  {
     "id": 7,
     "name": "الصيدلية - الداخلية",
     "name_en": "Pharmacy - Internal",
