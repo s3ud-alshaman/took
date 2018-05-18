@@ -112,7 +112,7 @@
     "phone": "",
     "email": "",
     "location": "المبنى الرئيسي - القبو",
-    "location_en": "Main Building - Basement",,
+    "location_en": "Main Building - Basement",
     "img": "/",
     
   },
