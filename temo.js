@@ -259,6 +259,32 @@
     "img": "/Bones.png",
     
 },
+   {
+    "id": 9,
+    "name": "العيادات الخارجية - عيادة الجلدية",
+    "name_en": "OPD - Dermatology clinic",
+    "ext": "3111",
+    "more_ext": "3202",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
+  {
+    "id": 9,
+    "name": "العيادات الخارجية - عيادة النساء والولادة",
+    "name_en": "OPD - Women and childbirth clinic",
+    "ext": "3111",
+    "more_ext": "3202",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
   {
     "id": 10,
     "name": "العيادات الخارجية - عيادة القلب",
