@@ -79,6 +79,32 @@
   },
   {
     "id": 2,
+    "name": "السجلات الطبية",
+    "name_en": "medical records",
+    "ext": "9046",
+    "more_ext": "9068",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي - القبو",
+    "location_en": "Main Building - Basement",
+    "img": "/",
+    
+  },
+   {
+    "id": 2,
+    "name": "التقارير الطبية",
+    "name_en": "medical reports",
+    "ext": "9002",
+    "more_ext": "3280-3108",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
+  {
+    "id": 2,
     "name": "حقوق وعلاقات المرضى",
     "name_en": "Rights and Patient Relationships",
     "ext": "9100",
