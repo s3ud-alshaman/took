@@ -58,7 +58,7 @@
     "ext": "9191",
     "more_ext": "",
     "phone": "0144259191",
-    "email": "",
+    "email": "TB-KFH-SS@moh.gov.sa",
     "location": "مبنى الخدمات -الدور الثاني",
     "location_en": "Services Building - Second Floor",
     "img": "/",
@@ -152,6 +152,19 @@
     "email": "TB-KFH-PRRD@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "Main Building - ",
+    "img": "/",
+    
+  },
+   {
+    "id": 2,
+    "name": "التدريب و التعليم",
+    "name_en": "Training and education",
+    "ext": "9032",
+    "more_ext": "1025-1038-9077",
+    "phone": "",
+    "email": "TB-KFH-TRAINING@moh.gov.sa",
+    "location": "",
+    "location_en": "",
     "img": "/",
     
   },
