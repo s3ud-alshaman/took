@@ -117,6 +117,19 @@
     
   },
   {
+    "id": 2,
+    "name": "إدارة الاسرّة",
+    "name_en": "Management of beds",
+    "ext": "9039",
+    "more_ext": "2063",
+    "phone": "0144259039",
+    "email": "",
+    "location": "",
+    "location_en": "",
+    "img": "/",
+    
+  },
+  {
     "id": 3,
     "name": "العيادات الخارجية - عيادة العيون",
     "name_en": "OPD - Eye Clinic",
