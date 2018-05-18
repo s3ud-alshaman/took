@@ -339,6 +339,19 @@
   },
    {
     "id": 3,
+    "name": "العيادات الخارجية - عيادة الاستقلابية",
+    "name_en": "OPD - Metabolic Clinic",
+    "ext": "3033",
+    "more_ext": "3034",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية -",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
+   {
+    "id": 3,
     "name": "العيادات الخارجية - عيادة الموظفين",
     "name_en": "OPD - Staff Clinic",
     "ext": "3230",
