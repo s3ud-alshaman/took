@@ -325,6 +325,32 @@
     
   },
   {
+    "id": 3,
+    "name": "العيادات الخارجية - عيادة التخاطب",
+    "name_en": "OPD - Speech Clinic",
+    "ext": "3005",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
+   {
+    "id": 3,
+    "name": "العيادات الخارجية - عيادة الموظفين",
+    "name_en": "OPD - Staff Clinic",
+    "ext": "3230",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
+  {
     "id": 12,
     "name": "العيادات الخارجية - الصيدلية",
     "name_en": "OPD - Pharmacy",
