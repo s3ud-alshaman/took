@@ -79,6 +79,19 @@
   },
   {
     "id": 2,
+    "name": "الحركة",
+    "name_en": "movement",
+    "ext": "9060",
+    "more_ext": "6068-1008",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location_en": "",
+    "img": "/Central.png",
+    
+  },
+  {
+    "id": 2,
     "name": "السجلات الطبية",
     "name_en": "medical records",
     "ext": "9046",
