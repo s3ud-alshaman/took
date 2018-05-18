@@ -156,19 +156,6 @@
     
   },
   {
-    "id": 3,
-    "name": "العيادات الخارجية - عيادة العيون",
-    "name_en": "OPD - Eye Clinic",
-    "ext": "3026",
-    "more_ext": "",
-    "phone": "",
-    "email": "",
-    "location": "العيادات الخارجية - الدور الثاني",
-    "location_en": "OPD Building",
-    "img": "/",
-    
-  },
-  {
     "id": 4,
     "name": "الصيانة - اصلاح الأعطال",
     "name_en": "Maintenance - Repair Faults",
@@ -234,6 +221,32 @@
     
 },
   {
+    "id": 11,
+    "name": "العيادات الخارجية - مدير العيادات",
+    "name_en": "director clinics",
+    "ext": "9024",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية-الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
+  {
+    "id": 11,
+    "name": "العيادات الخارجية - الاستقبال",
+    "name_en": "OPD - Reception",
+    "ext": "3053",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
+  {
     "id": 9,
     "name": "العيادات الخارجية - عيادة العظام",
     "name_en": "OPD - ortho clinic",
@@ -259,19 +272,19 @@
     "img": "/",
     
 },
-  {
-    "id": 11,
-    "name": "العيادات الخارجية - الاستقبال",
-    "name_en": "OPD - Reception",
-    "ext": "3053",
+   {
+    "id": 3,
+    "name": "العيادات الخارجية - عيادة العيون",
+    "name_en": "OPD - Eye Clinic",
+    "ext": "3026",
     "more_ext": "",
     "phone": "",
     "email": "",
-    "location": "مبنى العيادات الخارجية",
+    "location": "العيادات الخارجية - الدور الثاني",
     "location_en": "OPD Building",
     "img": "/",
     
-},
+  },
   {
     "id": 12,
     "name": "العيادات الخارجية - الصيدلية",
