@@ -363,6 +363,19 @@
     "img": "/",
     
 },
+  {
+    "id": 10,
+    "name": "العيادات الخارجية - عيادة الباطنية",
+    "name_en": "OPD - Internalization Clinic",
+    "ext": "3211",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+},
    {
     "id": 3,
     "name": "العيادات الخارجية - عيادة العيون",
