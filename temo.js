@@ -429,16 +429,16 @@
     
 },
   {
-    "id": 13,
-    "name": "الطوارى - الصيدلية",
-    "name_en": "ER - Pharmacy",
-    "ext": "1079",
-    "more_ext": "1581-1582-1583-1584",
+    "id": 16,
+    "name": "الطوارى - المدير المناوب",
+    "name_en": "ER - Director",
+    "ext": "9004",
+    "more_ext": "",
     "phone": "",
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/66.png",
+    "img": "/",
     
 },
   {
@@ -447,6 +447,19 @@
     "name_en": "ER - Reception",
     "ext": "1161",
     "more_ext": "1162",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    "img": "/",
+    
+},
+  {
+    "id": 20,
+    "name": "الطوارى - العيادة",
+    "name_en": "ER - Clinic",
+    "ext": "1148",
+    "more_ext": "",
     "phone": "",
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
@@ -468,16 +481,16 @@
     
 },
   {
-    "id": 16,
-    "name": "الطوارى - المدير الناوب",
-    "name_en": "ER - Director",
-    "ext": "9004",
-    "more_ext": "",
+    "id": 13,
+    "name": "الطوارى - الصيدلية",
+    "name_en": "ER - Pharmacy",
+    "ext": "1079",
+    "more_ext": "1581-1582-1583-1584",
     "phone": "",
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/66.png",
     
 },
   {
@@ -506,20 +519,7 @@
     "img": "/Birth.png",
     
 },
-  {
-    "id": 19,
-    "name": "الطوارى - ملاحظة النساء",
-    "name_en": "ER - Female",
-    "ext": "1155",
-    "more_ext": "",
-    "phone": "",
-    "email": "",
-    "location": "المبنى الرئيسي- الدور الأرضي",
-    "location_en": "Main Building -Ground Floor",
-    "img": "/",
-    
-},
-  {
+   {
     "id": 20,
     "name": "الطوارى - ملاحظة الرجال",
     "name_en": "ER - Male",
@@ -533,10 +533,10 @@
     
 },
   {
-    "id": 20,
-    "name": "الطوارى - العيادة",
-    "name_en": "ER - Clinic",
-    "ext": "1148",
+    "id": 19,
+    "name": "الطوارى - ملاحظة النساء",
+    "name_en": "ER - Female",
+    "ext": "1155",
     "more_ext": "",
     "phone": "",
     "email": "",
