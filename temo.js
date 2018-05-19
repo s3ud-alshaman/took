@@ -869,6 +869,45 @@
     "location_en": "Main Building -Ground Floor",
     "img": "/",
     
-}
+},
+  {
+    "id": 3,
+    "name": "التمريض - رئيسة القسم",
+    "name_en": "9055",
+    "ext": "9023",
+    "more_ext": "",
+    "phone": "0144259023",
+    "email": "TB-KFH-NURSING@moh.gov.sa",
+    "location": "",
+    "location_en": "",
+    "img": "/",
+    
+},
+  {
+    "id": 3,
+    "name": "التمريض - مشرفة القسم",
+    "name_en": "",
+    "ext": "9028",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location_en": "",
+    "img": "/",
+    
+},
+  {
+    "id": 3,
+    "name": "التمريض - مشرفة القسم المناوبة",
+    "name_en": "",
+    "ext": "9027-1786",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location_en": "",
+    "img": "/",
+    
+}  
 
 ]  
