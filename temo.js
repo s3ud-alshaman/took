@@ -64,6 +64,19 @@
     "img": "/",
     
   },
+   {
+    "id": 2,
+    "name": "المشتريات",
+    "name_en": "Purchases",
+    "ext": "9199",
+    "more_ext": "",
+    "phone": "",
+    "email": "TB-KFH-PUR@moh.gov.sa",
+    "location": "",
+    "location_en": "",
+    "img": "/",
+    
+},
   {
     "id": 2,
     "name": "السنترال",
