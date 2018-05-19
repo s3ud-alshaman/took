@@ -10,6 +10,12 @@
     "name_en": "E.R GENERAL SURGERY SPECIALISTS ",
     "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/ER%20SPECIALIST.pdf",
     
+  },
+    {
+    "name": "المسالك البولية",
+    "name_en": "Urology",
+    "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/UROLOGY.pdf",
+    
   }
 
 ]  
