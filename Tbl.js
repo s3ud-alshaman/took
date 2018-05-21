@@ -26,7 +26,7 @@
   {
     "name": "أطباء الجراحة العامة",
     "name_en": " GS SP CONSULTANT",
-    "urlPdf": "https://github.com/s3ud-alshaman/took/blob/master/GS_SP_CONSULTANT.pdf",
+    "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/GS_SP_CONSULTANT.pdf",
     
   },
  {
