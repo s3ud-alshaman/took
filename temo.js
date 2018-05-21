@@ -1063,18 +1063,6 @@
 },
   {
     "id": 3,
-    "name": "مركز السكر - مساعد المدير",
-    "name_en": "",
-    "ext": "9029",
-    "more_ext": "",
-    "phone": "",
-    "email": "",
-    "location": "مبنى مركز السكر- الدور الأرضي",
-    "location_en": "Main Building -Ground Floor",
-    "img": "/",
-},
-  {
-    "id": 3,
     "name": "مركز السكر - رئيسة التمريض",
     "name_en": "",
     "ext": "6489",
