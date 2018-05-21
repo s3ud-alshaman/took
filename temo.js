@@ -1022,7 +1022,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1034,7 +1034,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1046,7 +1046,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1058,7 +1058,7 @@
     "email": "",
     "location": "مبنى مركز السكر- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1070,7 +1070,7 @@
     "email": "",
     "location": "مبنى مركز السكر- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1082,7 +1082,7 @@
     "email": "",
     "location": "مبنى مركز السكر- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1094,7 +1094,7 @@
     "email": "",
     "location": "مبنى مركز السكر- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 },
   {
     "id": 3,
@@ -1106,7 +1106,7 @@
     "email": "",
     "location": "مبنى مركز السكر- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    
+    "img": "/",
 }  
 
 
