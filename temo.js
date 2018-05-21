@@ -467,6 +467,19 @@
     "img": "/",
     
   },
+     {
+    "id": 3,
+    "name": "العيادات الخارجية - عيادة السمنة",
+    "name_en": "",
+    "ext": "3233",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "العيادات الخارجية - الدور الثاني",
+    "location_en": "OPD Building",
+    "img": "/",
+    
+  },
   {
     "id": 12,
     "name": "العيادات الخارجية - الصيدلية",
@@ -991,14 +1004,120 @@
     "id": 3,
     "name": "التمريض - مشرفة القسم المناوبة",
     "name_en": "",
-    "ext": "9027-1786",
-    "more_ext": "",
+    "ext": "9027",
+    "more_ext": "1786",
     "phone": "",
     "email": "",
     "location": "",
     "location_en": "",
     "img": "/",
     
+},
+  {
+    "id": 3,
+    "name": "العلاج الطبيعي - الاستقبال",
+    "name_en": "",
+    "ext": "1180",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+   {
+    "id": 3,
+    "name": "العلاج الطبيعي - رجال",
+    "name_en": "",
+    "ext": "1286",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+  {
+    "id": 3,
+    "name": "العلاج الطبيعي - نساء",
+    "name_en": "",
+    "ext": "1285",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "المبنى الرئيسي- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+   {
+    "id": 3,
+    "name": "مركز السكر - مساعد المدير",
+    "name_en": "",
+    "ext": "9029",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "مبنى مركز السكر- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+    {
+    "id": 3,
+    "name": "مركز السكر - مساعد المدير",
+    "name_en": "",
+    "ext": "9029",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "مبنى مركز السكر- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+  {
+    "id": 3,
+    "name": "مركز السكر - رئيسة التمريض",
+    "name_en": "",
+    "ext": "6489",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "مبنى مركز السكر- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+   {
+    "id": 3,
+    "name": "مركز السكر - الاستقبال",
+    "name_en": "",
+    "ext": "6488",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "مبنى مركز السكر- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
+},
+  {
+    "id": 3,
+    "name": "مركز السكر - السكرتارية",
+    "name_en": "",
+    "ext": "6490",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "location": "مبنى مركز السكر- الدور الأرضي",
+    "location_en": "Main Building -Ground Floor",
+    
 }  
+
+
 
 ]  
