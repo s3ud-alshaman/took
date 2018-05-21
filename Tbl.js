@@ -17,7 +17,6 @@
     "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/UROLOGY.pdf",
     
   },
-  },
     {
     "name": "أطباء الأنف و الإذن و الحنجرة",
     "name_en": "ENT DUTY ROASTER",
