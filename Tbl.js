@@ -16,6 +16,12 @@
     "name_en": "Urology",
     "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/UROLOGY.pdf",
     
+  },
+ {
+    "name": "أطباء الباطنية",
+    "name_en": "Internal Medicine",
+    "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/INTERNAL_MEDICINE.pdf",
+    
   }
-
+  
 ]  
