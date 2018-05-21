@@ -467,7 +467,7 @@
     "img": "/",
     
   },
-     {
+    {
     "id": 3,
     "name": "العيادات الخارجية - عيادة السمنة",
     "name_en": "",
@@ -480,7 +480,7 @@
     "img": "/",
     
   },
-  {
+    {
     "id": 12,
     "name": "العيادات الخارجية - الصيدلية",
     "name_en": "OPD - Pharmacy",
@@ -493,7 +493,7 @@
     "img": "/66.png",
     
 },
-   {
+  {
     "id": 12,
     "name": "العيادات الخارجية - المختبر",
     "name_en": "OPD - Laboratory",
@@ -506,7 +506,7 @@
     "img": "/",
     
 },
-   {
+  {
     "id": 12,
     "name": "العيادات الخارجية - الأشعة",
     "name_en": "OPD - Radiology",
@@ -1026,7 +1026,7 @@
     "location_en": "Main Building -Ground Floor",
     
 },
-   {
+  {
     "id": 3,
     "name": "العلاج الطبيعي - رجال",
     "name_en": "",
@@ -1052,7 +1052,7 @@
     "location_en": "Main Building -Ground Floor",
     
 },
-   {
+  {
     "id": 3,
     "name": "مركز السكر - مساعد المدير",
     "name_en": "",
@@ -1065,7 +1065,7 @@
     "location_en": "Main Building -Ground Floor",
     
 },
-    {
+  {
     "id": 3,
     "name": "مركز السكر - مساعد المدير",
     "name_en": "",
@@ -1091,7 +1091,7 @@
     "location_en": "Main Building -Ground Floor",
     
 },
-   {
+  {
     "id": 3,
     "name": "مركز السكر - الاستقبال",
     "name_en": "",
