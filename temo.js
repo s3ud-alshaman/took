@@ -1008,6 +1008,7 @@
     "more_ext": "1786",
     "phone": "",
     "email": "",
+    "location": "",
     "location_en": "",
     "img": "/",
     
