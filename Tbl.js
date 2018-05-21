@@ -18,9 +18,15 @@
     
   },
     {
-    "name": "أطباء الأنف و الإذن و الحنجرة",
+    "name": "أطباء الانف و الاذن و الحنجره",
     "name_en": "ENT DUTY ROASTER",
     "urlPdf": "https://github.com/s3ud-alshaman/took/raw/master/ENT_DUTY_ROASTER%20.pdf",
+    
+  },
+  {
+    "name": "أطباء الجراحة العامة",
+    "name_en": " GS SP CONSULTANT",
+    "urlPdf": "https://github.com/s3ud-alshaman/took/blob/master/GS_SP_CONSULTANT.pdf",
     
   },
  {
