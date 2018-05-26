@@ -100,7 +100,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/Central.png",
+    "img": "/",
     
   },
   {
@@ -178,7 +178,7 @@
     "email": "TB-KFH-TRAINING@moh.gov.sa",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/student.png",
     
   },
     {
@@ -204,7 +204,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/hospital-bed.png",
     
   },
   {
@@ -308,7 +308,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/",
+    "img": "/nurse2.png",
     
 },
   {
@@ -399,7 +399,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/",
+    "img": "/heart.png",
     
 },
   {
@@ -516,7 +516,7 @@
     "email": "",
     "location": "مبنى العيادات الخارجية",
     "location_en": "OPD Building",
-    "img": "/",
+    "img": "/x-ray2",
     
 },
   {
@@ -594,7 +594,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/x-ray2.png",
     
 },
   {
@@ -711,7 +711,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/stretcher.png",
     
 },
   {
@@ -724,7 +724,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/stretcher.png",
     
 },
    {
@@ -737,7 +737,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/cardiogram2",
     
 },
    {
@@ -750,7 +750,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/cardiogram2",
     
 },
    {
@@ -763,7 +763,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/cardiogram.png",
     
 },
   {
@@ -893,7 +893,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/blood-sample.png",
     
 },
   {
@@ -971,7 +971,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/blood-sample.png",
     
 },
   {
@@ -984,7 +984,7 @@
     "email": "TB-KFH-NURSING@moh.gov.sa",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/nurse.png",
     
 },
   {
@@ -997,7 +997,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/nurse2.png",
     
 },
   {
@@ -1010,7 +1010,7 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/nurse2.png",
     
 },
   {
@@ -1023,7 +1023,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/massage.png",
 },
   {
     "id": 3,
@@ -1035,7 +1035,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/massage.png",
 },
   {
     "id": 3,
@@ -1047,7 +1047,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/massage.png",
 },
   {
     "id": 3,
