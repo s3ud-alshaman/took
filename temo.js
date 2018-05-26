@@ -425,7 +425,7 @@
     "email": "",
     "location": "العيادات الخارجية - الدور الثاني",
     "location_en": "OPD Building",
-    "img": "/",
+    "img": "/eye_3.png",
     
   },
   {
