@@ -781,8 +781,8 @@
 },
   {
     "id": 3,
-    "name": "Laboratory - Deputy Director",
-    "name_en": "",
+    "name": "المختبر - نائب المدير",
+    "name_en": "Laboratory - Deputy Director",
     "ext": "7042",
     "more_ext": "",
     "phone": "",
