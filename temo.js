@@ -470,7 +470,7 @@
     {
     "id": 3,
     "name": "العيادات الخارجية - عيادة السمنة",
-    "name_en": "",
+    "name_en": "Clinics - Obesity",
     "ext": "3233",
     "more_ext": "",
     "phone": "",
@@ -639,7 +639,7 @@
   {
     "id": 19,
     "name": "تنويم - جراحة رجال",
-    "name_en": "",
+    "name_en": "Hypnotherapy - male surgery",
     "ext": "1600",
     "more_ext": "",
     "phone": "",
@@ -652,7 +652,7 @@
    {
     "id": 19,
     "name": "تنويم - جراحة نساء",
-    "name_en": "",
+    "name_en": "Hypnosis - Female Surgery",
     "ext": "1562",
     "more_ext": "1563-1741-1742-1743",
     "phone": "",
@@ -665,7 +665,7 @@
    {
     "id": 19,
     "name": "تنويم - باطنية رجال",
-    "name_en": "",
+    "name_en": "Hypnosis - Internal Men",
     "ext": "1873",
     "more_ext": "1874-1942-1943-1569",
     "phone": "",
@@ -678,7 +678,7 @@
    {
     "id": 19,
     "name": "تنويم - باطنية نساء",
-    "name_en": "",
+    "name_en": "Hypnosis - Internal Famle",
     "ext": "1564",
     "more_ext": "1565-1673-1674",
     "phone": "",
@@ -704,7 +704,7 @@
   {
     "id": 8,
     "name": "تنويم - عمليات اليوم الواحد (رجال)",
-    "name_en": "",
+    "name_en": "Hypnosis - One day operations (men)",
     "ext": "1277",
     "more_ext": "",
     "phone": "",
@@ -717,7 +717,7 @@
   {
     "id": 8,
     "name": "تنويم - عمليات اليوم الواحد (نساء)",
-    "name_en": "",
+    "name_en": "Hypnosis - One day operations (Famle)",
     "ext": "1276",
     "more_ext": "",
     "phone": "",
@@ -730,8 +730,8 @@
    {
     "id": 19,
     "name": "العناية المركزة",
-    "name_en": "1530",
-    "ext": "",
+    "name_en": "Intensive care",
+    "ext": "1530",
     "more_ext": "1531-1521-1523-1525-1524",
     "phone": "",
     "email": "",
@@ -743,8 +743,8 @@
    {
     "id": 19,
     "name": "العناية المركزة - الامن",
-    "name_en": "1513",
-    "ext": "",
+    "name_en": "Intensive Care - Security",
+    "ext": "1513",
     "more_ext": "",
     "phone": "",
     "email": "",
@@ -781,7 +781,7 @@
 },
   {
     "id": 3,
-    "name": "المختبر - نائب المدير",
+    "name": "Laboratory - Deputy Director",
     "name_en": "",
     "ext": "7042",
     "more_ext": "",
@@ -795,7 +795,7 @@
   {
     "id": 3,
     "name": "المختبر - مسئول الأمن",
-    "name_en": "",
+    "name_en": "Laboratory - Security Officer",
     "ext": "1091",
     "more_ext": "",
     "phone": "",
@@ -808,7 +808,7 @@
    {
     "id": 3,
     "name": "المختبر - مسئول الجودة",
-    "name_en": "",
+    "name_en": "Laboratory - Quality Officer",
     "ext": "",
     "more_ext": "",
     "phone": "",
@@ -821,7 +821,7 @@
    {
     "id": 3,
     "name": "المختبر - الدكتور",
-    "name_en": "",
+    "name_en": "Laboratory - Doctor",
     "ext": "1074",
     "more_ext": "",
     "phone": "",
@@ -834,7 +834,7 @@
        {
     "id": 3,
     "name": "المختبر - رئيس الفنيين",
-    "name_en": "",
+    "name_en": "Laboratory - Chief Technicians",
     "ext": "1777",
     "more_ext": "",
     "phone": "",
@@ -847,7 +847,7 @@
   {
     "id": 3,
     "name": "المختبر - المدير الطبي",
-    "name_en": "",
+    "name_en": "Laboratory - Medical Director",
     "ext": "1787",
     "more_ext": "",
     "phone": "",
@@ -860,7 +860,7 @@
   {
     "id": 3,
     "name": "المختبر - مشرف امراض الدم",
-    "name_en": "",
+    "name_en": "Laboratory - Supervisor of blood diseases",
     "ext": "1063",
     "more_ext": "",
     "phone": "",
@@ -873,7 +873,7 @@
   {
     "id": 3,
     "name": "المختبر - مشرف الاحياء الدقيقه",
-    "name_en": "",
+    "name_en": "Laboratory - Supervisor of microorganisms",
     "ext": "1077",
     "more_ext": "",
     "phone": "",
@@ -886,7 +886,7 @@
  {
     "id": 3,
     "name": "المختبر - بنك الدم",
-    "name_en": "",
+    "name_en": "Laboratory - Blood Bank",
     "ext": "1083",
     "more_ext": "1089-1284",
     "phone": "",
@@ -899,7 +899,7 @@
   {
     "id": 3,
     "name": "المختبر - كيمياء الدم",
-    "name_en": "",
+    "name_en": "Laboratory - Biochemistry",
     "ext": "1069",
     "more_ext": "1784-1094",
     "phone": "",
@@ -912,7 +912,7 @@
   {
     "id": 3,
     "name": "المختبر - الفيروسات والامصال",
-    "name_en": "",
+    "name_en": "Laboratory - Serology",
     "ext": "1065",
     "more_ext": "1066",
     "phone": "",
@@ -925,7 +925,7 @@
  {
     "id": 3,
     "name": "المختبر - تحليل امراض الدم",
-    "name_en": "",
+    "name_en": "Laboratory - Hematology",
     "ext": "1062",
     "more_ext": "",
     "phone": "",
@@ -938,7 +938,7 @@
  {
     "id": 3,
     "name": "المختبر - كورونا",
-    "name_en": "",
+    "name_en": "Laboratory - Corona",
     "ext": "9041",
     "more_ext": "",
     "phone": "",
@@ -951,7 +951,7 @@
   {
     "id": 3,
     "name": "المختبر - التبرع بالدم",
-    "name_en": "",
+    "name_en": "Laboratory - blood donation",
     "ext": "3236",
     "more_ext": "",
     "phone": "",
@@ -964,7 +964,7 @@
   {
     "id": 3,
     "name": "المختبر - الاستقبال و النتائج",
-    "name_en": "",
+    "name_en": "Laboratory - reception and results",
     "ext": "1093",
     "more_ext": "1095-1096",
     "phone": "",
@@ -977,9 +977,9 @@
   {
     "id": 3,
     "name": "التمريض - رئيسة القسم",
-    "name_en": "9055",
-    "ext": "9023",
-    "more_ext": "",
+    "name_en": "Nursing - Head of Department",
+    "ext": "9055",
+    "more_ext": "9023",
     "phone": "0144259023",
     "email": "TB-KFH-NURSING@moh.gov.sa",
     "location": "",
@@ -990,7 +990,7 @@
   {
     "id": 3,
     "name": "التمريض - مشرفة القسم",
-    "name_en": "",
+    "name_en": "Nursing - Nursing Supervisor",
     "ext": "9028",
     "more_ext": "",
     "phone": "",
@@ -1003,7 +1003,7 @@
   {
     "id": 3,
     "name": "التمريض - مشرفة القسم المناوبة",
-    "name_en": "",
+    "name_en": "Nursing - Alternate Nursing Supervisor",
     "ext": "9027",
     "more_ext": "1786",
     "phone": "",
@@ -1016,7 +1016,7 @@
   {
     "id": 3,
     "name": "العلاج الطبيعي - الاستقبال",
-    "name_en": "",
+    "name_en": "Physiotherapy - Reception",
     "ext": "1180",
     "more_ext": "",
     "phone": "",
@@ -1028,7 +1028,7 @@
   {
     "id": 3,
     "name": "العلاج الطبيعي - رجال",
-    "name_en": "",
+    "name_en": "Physiotherapy - Men",
     "ext": "1286",
     "more_ext": "",
     "phone": "",
@@ -1040,7 +1040,7 @@
   {
     "id": 3,
     "name": "العلاج الطبيعي - نساء",
-    "name_en": "",
+    "name_en": "Physiotherapy - Famle",
     "ext": "1285",
     "more_ext": "",
     "phone": "",
@@ -1052,7 +1052,7 @@
   {
     "id": 3,
     "name": "مركز السكر - مساعد المدير",
-    "name_en": "",
+    "name_en": "Sugar - Assistant Director",
     "ext": "9029",
     "more_ext": "",
     "phone": "",
@@ -1064,7 +1064,7 @@
   {
     "id": 3,
     "name": "مركز السكر - رئيسة التمريض",
-    "name_en": "",
+    "name_en": "Sugar - Head of Nursing",
     "ext": "6489",
     "more_ext": "",
     "phone": "",
@@ -1076,7 +1076,7 @@
   {
     "id": 3,
     "name": "مركز السكر - الاستقبال",
-    "name_en": "",
+    "name_en": "Sugar - Reception",
     "ext": "6488",
     "more_ext": "",
     "phone": "",
@@ -1088,7 +1088,7 @@
   {
     "id": 3,
     "name": "مركز السكر - السكرتارية",
-    "name_en": "",
+    "name_en": "Sugar - Secretariat",
     "ext": "6490",
     "more_ext": "",
     "phone": "",
@@ -1100,7 +1100,7 @@
 {
     "id": 3,
     "name": "المستودع - المدير",
-    "name_en": "",
+    "name_en": "Store - Manager",
     "ext": "9040",
     "more_ext": "",
     "phone": "0144259040",
@@ -1112,7 +1112,7 @@
   {
     "id": 3,
     "name": "المستودع - طلبات الصيدلية ( الأدوية )",
-    "name_en": "",
+    "name_en": "Store - Drug orders",
     "ext": "6074",
     "more_ext": "",
     "phone": "",
@@ -1123,8 +1123,8 @@
 },
     {
     "id": 3,
-    "name": "المستودع - طلبيات المختبر ",
-    "name_en": "",
+    "name": "المستودع - طلبيات المختبر",
+    "name_en": "Store - Laboratory Orders",
     "ext": "6072",
     "more_ext": "",
     "phone": "",
@@ -1136,7 +1136,7 @@
   {
     "id": 3,
     "name": "المستودع - طلبيات الملزمة الطبية",
-    "name_en": "",
+    "name_en": "Store - Medical Binding Orders",
     "ext": "6071",
     "more_ext": "",
     "phone": "",
@@ -1148,7 +1148,7 @@
 {
     "id": 3,
     "name": "المستودع - طلبيات المطبوعات و الأثاث",
-    "name_en": "",
+    "name_en": "Store - publications and furniture",
     "ext": "6073",
     "more_ext": "",
     "phone": "",
