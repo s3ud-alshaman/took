@@ -620,7 +620,7 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/",
+    "img": "/patient.png",
     
 },
   {
