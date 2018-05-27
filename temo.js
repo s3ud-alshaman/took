@@ -74,7 +74,7 @@
     "email": "TB-KFH-PUR@moh.gov.sa",
     "location": "",
     "location_en": "",
-    "img": "/",
+    "img": "/Purchases.jpg",
     
 },
   {
