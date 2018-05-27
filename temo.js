@@ -21,7 +21,7 @@
     "phone": "0144259080",
     "email": "",
     "location": "المبنى الرئيسي - الدور الأرضي",
-    "location_en": "Main Building - G",
+    "location_en": "Main Building - Ground Floor",
     "img": "/",
     
   },
@@ -34,7 +34,7 @@
     "phone": "0144259081",
     "email": "",
     "location": "المبنى الرئيسي - الدور الأرضي",
-    "location_en": "Main Building - G",
+    "location_en": "Main Building - Ground Floor",
     "img": "/",
     
   },
@@ -47,7 +47,7 @@
     "phone": "0144259099",
     "email": "TB-KFH-COMM@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
-    "location_en": "Main Building - G",
+    "location_en": "Main Building - Ground Floor",
     "img": "/administrative-assistant.png",
     
   },
@@ -151,7 +151,7 @@
     "phone": "0144259100",
     "email": "TB-KFH-PRRD@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
-    "location_en": "",
+    "location_en": "Main Building - Ground Floor",
     "img": "/",
     
   },
@@ -164,7 +164,7 @@
     "phone": "0144259005",
     "email": "TB-KFH-PRRD@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
-    "location_en": "Main Building - ",
+    "location_en": "Main Building - Ground Floor",
     "img": "/",
     
   },
@@ -177,7 +177,7 @@
     "phone": "",
     "email": "TB-KFH-TRAINING@moh.gov.sa",
     "location": "",
-    "location_en": "",
+    "location_en": "Main Building - Ground Floor",
     "img": "/student.png",
     
   },
