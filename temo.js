@@ -48,7 +48,7 @@
     "email": "TB-KFH-COMM@moh.gov.sa",
     "location": "المبنى الرئيسي - الدور الأرضي",
     "location_en": "Main Building - G",
-    "img": "/",
+    "img": "/communication.png",
     
   },
   {
