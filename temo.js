@@ -386,7 +386,7 @@
     "email": "TB-KFH-UROLOGY@moh.gov.sa",
     "location": "مبنى العيادات",
     "location_en": "OPD Building",
-    "img": "/",
+    "img": "/Urinary_Tract.jpg",
     
 },
   {
