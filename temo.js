@@ -66,7 +66,7 @@
   },
    {
     "id": 2,
-    "name": "المشتريات",
+    "name": "قسم المشتريات",
     "name_en": "Purchases",
     "ext": "9199",
     "more_ext": "",
@@ -124,8 +124,8 @@
     "more_ext": "3280-3108",
     "phone": "0144259002",
     "email": "",
-    "location": "العيادات الخارجية - الدور الثاني",
-    "location_en": "OPD Building",
+    "location": "العيادات الخارجية - الدور الأول",
+    "location_en": "OPD Building - First floor",
     "img": "/",
     
   },
@@ -1160,7 +1160,7 @@
 {
     "id": 3,
     "name": "قسم الأحصاء",
-    "name_en": "Statistics Department ",
+    "name_en": "Statistics Department",
     "ext": "6073",
     "more_ext": "",
     "phone": "",
@@ -1168,5 +1168,17 @@
     "location": "مبنى العيادات الخارجية- الدورالأول",
     "location_en": "OPD Building -first floor",
     "img": "/",
- }, 
+  }, 
+{
+    "id": 3,
+    "name": "قسم الأمن والسلامة",
+    "name_en": "Safety & Security Department",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى الخدمات- الدورالأول",
+    "location_en": "OPD Building -first floor",
+    "img": "/",
+ },
 ]  
