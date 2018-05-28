@@ -691,7 +691,7 @@
   {
     "id": 8,
     "name": "تنويم الولادة",
-    "name_en": "",
+    "name_en": "Maternity Ward",
     "ext": "1500",
     "more_ext": "1501",
     "phone": "",
@@ -1191,6 +1191,19 @@
     "email": "",
     "location": "المبنى الرئيسي- الدورالأرضي",
     "location_en": "Main Building -Ground Floor",
+    "img": "/",
+ },
+  }, 
+{
+    "id": 3,
+    "name": "غرفه الولادة",
+    "name_en": "Delivery Room",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدورالأول",
+    "location_en": "Main Building -First Floor",
     "img": "/",
  },
 ]  
