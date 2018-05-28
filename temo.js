@@ -1225,4 +1225,16 @@
     "location_en": "Main Building -First Floor",
     "img": "/",
  },
+{
+    "id": 3,
+    "name": "عناية الأطفال حديثي الولادة",
+    "name_en": "N.I.C.U",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدورالأول",
+    "location_en": "Main Building -First Floor",
+    "img": "/",
+ },
 ]  
