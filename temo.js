@@ -1035,7 +1035,8 @@
     "email": "",
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
-    "img": "/massage.png",
+    "img": "/massage.png",  
+    
 },
   {
     "id": 3,
@@ -1048,6 +1049,7 @@
     "location": "المبنى الرئيسي- الدور الأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/massage.png",
+    
 },
   {
     "id": 3,
@@ -1143,8 +1145,9 @@
     "email": "",
     "location": "",
     "location_en": "",
-    "img": "/",
-}, 
+    "img": "/", 
+    
+ }, 
 {
     "id": 3,
     "name": "المستودع - طلبيات المطبوعات و الأثاث",
@@ -1156,6 +1159,7 @@
     "location": "",
     "location_en": "",
     "img": "/",
+  
  }, 
 {
     "id": 3,
@@ -1168,7 +1172,8 @@
     "location": "مبنى العيادات الخارجية- الدورالأول",
     "location_en": "OPD Building -first floor",
     "img": "/",
-  }, 
+  
+ }, 
 {
     "id": 3,
     "name": "قسم الأمن والسلامة",
@@ -1180,6 +1185,7 @@
     "location": "مبنى الخدمات- الدورالأول",
     "location_en": "OPD Building -first floor",
     "img": "/",
+  
 }, 
 {
     "id": 3,
@@ -1192,12 +1198,25 @@
     "location": "المبنى الرئيسي- الدورالأرضي",
     "location_en": "Main Building -Ground Floor",
     "img": "/",
- },
-  }, 
+  
+ }, 
 {
     "id": 3,
     "name": "غرفه الولادة",
     "name_en": "Delivery Room",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدورالأول",
+    "location_en": "Main Building -First Floor",
+    "img": "/",
+  
+ },
+  {
+    "id": 3,
+    "name": "الطفل السليم",
+    "name_en": "Well Baby",
     "ext": "6073",
     "more_ext": "",
     "phone": "",
