@@ -132,7 +132,7 @@
   {
     "id": 2,
     "name": "الارشيف – ملفات الموظفين",
-    "name_en": "Archive - Staff Files",
+    "name_en": "Archive - employees Files",
     "ext": "1209",
     "more_ext": "1210",
     "phone": "",
@@ -145,7 +145,7 @@
   {
     "id": 2,
     "name": "حقوق وعلاقات المرضى",
-    "name_en": "Rights and Patient Relationships",
+    "name_en": "Patient rights",
     "ext": "9100",
     "more_ext": "9101-3181",
     "phone": "0144259100",
@@ -1156,6 +1156,17 @@
     "location": "",
     "location_en": "",
     "img": "/",
-}, 
-  
+ }, 
+{
+    "id": 3,
+    "name": "قسم الأحصاء",
+    "name_en": "Statistics Department ",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "مبنى العيادات الخارجية- الدورالأول",
+    "location_en": "OPD Building -first floor",
+    "img": "/",
+ }, 
 ]  
