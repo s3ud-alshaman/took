@@ -1252,7 +1252,7 @@
   {
     "id": 3,
     "name": "العناية المتوسطة",
-    "name_en": "Step Dawn I.C.U",
+    "name_en": "Step Down I.C.U",
     "ext": "6073",
     "more_ext": "",
     "phone": "",
