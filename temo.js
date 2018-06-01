@@ -1333,4 +1333,16 @@
     "location_en": "Main Building -First Floor",
     "img": "/",
  },
+  {
+    "id": 3,
+    "name": "تنويم القلب",
+    "name_en": "Cardio Ward",
+    "ext": "6073",
+    "more_ext": "",
+    "phone": "",
+    "email": "",
+    "location": "المبنى الرئيسي- الدورالرابع",
+    "location_en": "Main Building -fourth Floor",
+    "img": "/",
+ },
 ]  
